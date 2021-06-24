@@ -1,0 +1,46 @@
+@font-face{
+	font-family: 'Play';
+	src: url(../../Font/Play-Regular.TTF);
+}
+body{
+	background-color: #ECECEC;
+	font-family: ITC avant garde gothic, tahoma, sans-serif;
+	font-size: 13px;
+}
+
+h3{
+	height: 40px;
+	width: 100px;
+}
+
+h3 a{
+	line-height: 40px;
+	text-decoration: none;
+	margin-left: 10px;
+	font-weight: bold;
+}
+
+ul{
+	/*border: 1px solid red;*/
+	margin-top: 20px;
+}
+
+ul li{
+	margin-top: 10px;
+	list-style-type: none;
+	text-decoration: none;
+	height: 20px;
+	line-height: 20px;
+	padding-left: 15px;
+	box-sizing: border-box;
+	font-family: Play;
+}
+
+ul li a{
+	text-decoration: none;
+	color: #222;
+}
+
+ul  li a:hover{color: red;}
+
+.pilih{color: red;}

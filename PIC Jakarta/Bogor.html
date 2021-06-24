@@ -1,0 +1,68 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>PIC Bogor</title>
+	<link rel="stylesheet" type="text/css" href="css/daftar-teknisi.css">
+	<link rel="stylesheet" type="text/css" href="css/reset.css">
+</head>
+<body>
+	<div class="nama-cabang">-- Bogor --</div>
+	<div class="tabel-header">
+		<table border="1">
+			<tr>
+				<td width="30" align="center">No</td>
+				<td width="220" align="center">Nama</td>
+				<td width="360" align="center">No. Telepon</td>
+				<td width="180" align="center">Keterangan</td>
+			</tr>
+		</table>
+	</div>
+	<div class="tabel-daftar">
+		<table border="1">
+			<tr><td align="center" width="30"></td><td width="220">Bambang Hastomo</td><td width="360">0877-82627247</td><td width="180">Service Head</td></tr>
+			<tr><td align="center"></td><td>Kantor</td><td>0251-8393876</td><td>Service center</td></tr>
+			<tr><td align="center"></td><td>Hermina</td><td>0877-70277786</td><td>Admin Part</td></tr>
+			<!-- <tr><td align="center"></td><td>Hani</td><td>0818-07196019</td><td>Admin Part</td></tr> -->
+			<tr><td align="center"></td><td>Novia</td><td>0878-98947209 / <span style="text-decoration: line-through;">0821-19599504</span></td><td>Resepsionis</td></tr>
+			<!-- <tr><td align="center"></td><td>Putri</td><td>0812-85951774</td><td>End contract</td></tr> -->
+			<tr><td align="center"></td><td>Abdul Rojab</td><td>0857-13236349 / 0813-80342840</td><td></td></tr>
+			<tr><td align="center"></td><td>Adi Pradana</td><td>0823-12006791 / 0857-23370814</td><td></td></tr>
+			<!-- <tr><td align="center"></td><td>Ahmad</td><td>0812-99774600</td><td></td></tr> -->
+			<tr><td align="center"></td><td>Ahmad Sofyan</td><td>0812-99774600 / 0812-19800899 / 0858-84473332</td><td></td></tr>
+			<tr><td align="center"></td><td>Bevo Yudha Prendyangka</td><td>0818-04900733<!-- 0898-9897742 / 0815-85053335 --></td><td></td></tr>
+			<tr><td align="center"></td><td>Dana Lesmana</td><td>0813-15586323</td><td></td></tr>
+			<tr><td align="center"></td><td>Deri</td><td>0852-15875653</td><td>Int SASS Anugrah</td></tr>
+			<tr><td align="center"></td><td>Edi</td><td>0857-10719226</td><td></td></tr>
+			<tr><td align="center"></td><td>Huda </td><td>0896-88101195</td><td></td></tr>
+			<tr><td align="center"></td><td>Rian</td><td>0857-76604227<br>0857-16411846</td><td>ganti Fuad</td></tr>
+			<tr><td align="center"></td><td>Komar</td><td>0812-80079673 / 0857-77787154</td><td></td></tr>
+			<tr><td align="center"></td><td>Pujianto</td><td>0856-46571364</td><td></td></tr>
+			<tr><td align="center"></td><td>Ridwan</td><td>0838-11606549 / 0877-70001652</td><td></td></tr>
+			<tr><td align="center"></td><td>Rumat</td><td>0812-10361665</td><td></td></tr>
+			<tr><td align="center"></td><td>Saefudin</td><td>0811-937486 / 0812-83437154</td><td></td></tr>
+			<tr><td align="center"></td><td>Sukron </td><td>0823-28995935</td><td></td></tr>
+			<tr><td align="center"></td><td>Sulaiman</td><td>0878-74866527</td><td></td></tr>
+			<tr><td align="center"></td><td>Yuhono (Yuwono)</td><td>0813-98100731 / 0856-91712032</td><td></td></tr>
+			<tr><td align="center"></td><td>Ebet</td><td>0815-13117744</td><td></td></tr>
+			<tr><td align="center"></td><td>Dwi Hartanto</td><td>0878-78262144 / 0897-7782787</td><td>Internal SASS</td></tr>
+			<tr><td align="center"></td><td>Ian Permana</td><td>0856-1911945</td><td>Internal SASS</td></tr>
+			<tr><td align="center"></td><td>Imam</td><td>0857-17974444</td><td>Int SASS Sutrindo</td></tr>
+			<tr><td align="center"></td><td>Jajat</td><td>0856-7207864</td><td>Internal SASS</td></tr>
+			<tr><td align="center"></td><td>Romadhon</td><td>0856-93182287</td><td>Internal SASS</td></tr>
+			<tr><td align="center"></td><td>Rudi</td><td>0815-13547691 / 0815-11272177 / 0812-10251527</td><td>Internal SASS</td></tr>
+			<tr><td align="center"></td><td>Slamet</td><td>0856-92691692</td><td>Internal SASS</td></tr>
+			<tr><td align="center"></td><td>Yudi Kurniawan</td><td>0877-70238792</td><td>Internal SASS</td></tr>
+			<!-- <tr span style="color: red;"><td align="center">10</td><td>Muhammad Fuad Dzikri</td><td>0815-56554830 / 0896-50776892</td><td>RESIGN</td></tr> -->
+
+		</table>
+	</div>
+
+	<script src="js/script.js"></script>
+	<script type="text/javascript">
+		var tdPertama = document.querySelectorAll('.tabel-daftar table tr td:first-child');
+		for (let i = 0; i < tdPertama.length; i++){
+			tdPertama[i].innerHTML = parseInt(i) + 1;
+		}
+	</script>
+</body>
+</html>
