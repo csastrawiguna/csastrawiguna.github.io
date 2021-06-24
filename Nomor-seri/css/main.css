@@ -1,0 +1,24 @@
+@font-face{
+	font-family: 'Aaargh';
+	src: url(../../Font/Aaargh.TTF);
+}
+
+@font-face{
+	font-family: 'Quicksand';
+	src: url(../../Font/Questrial-Regular.TTF);
+}
+
+body{
+	background-color: #FFF;
+	font-family: Aaargh;
+	height: 100%;
+	width: 100%;
+}
+
+h3{
+	margin: 40% auto auto auto;
+	text-align: center;
+	font-family: Aaargh, sans-serif;
+	font-size: 40px;
+	color: #B35;
+}
