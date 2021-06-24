@@ -1,0 +1,19 @@
+@font-face{
+	font-family: 'Jura';
+	src: url(Font-selection/Jura-Regular.TTF);
+}
+
+@font-face{
+	font-family: 'RobotoCondensed';
+	src: url(../../Font-selection/RobotoCondensed-Regular.TTF);
+}
+
+body{
+	font-family: Jura;
+}
+
+.left-list{
+	height: 100%;
+	width: 170px;
+	border: 1px solid grey;
+}

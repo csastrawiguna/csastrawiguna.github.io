@@ -1,0 +1,90 @@
+@font-face{
+	font-family: 'Jura';
+	src: url(Font/Jura-Regular.TTF);
+}
+
+@font-face{
+	font-family: 'RobotoCondensed';
+	src: url(../../Font/RobotoCondensed-Regular.TTF);
+}
+@font-face{
+	font-family: 'EncodeSansCondensed';
+	src: url(../../Font/EncodeSansCondensed-Light.TTF);
+}
+@font-face{
+	font-family: 'Play';
+	src: url(../../Font/Play-Regular.TTF);
+}
+
+body{
+	font-family: EncodeSansCondensed;
+	/*background-color: #EEE;*/
+}
+
+
+.judul{
+	height: 110px;
+	line-height: 28px;
+	vertical-align: middle;
+	margin: 10px 5px 20px 5px;
+	font-family: lao UI;
+	color: #111;
+	font-size: 22px;
+	padding: 5px;
+	box-sizing: border-box;
+	border-bottom: 1px solid #DDD;
+	/*text-shadow: 0 0 1px #FFF;*/
+}
+
+/*.tanda{visibility: hidden; font-size: 8px;}
+*/
+a{
+	margin: 5px 15px;
+	display: block;
+	height: 30px;
+	line-height: 20px;
+	vertical-align: middle;
+	font-family: tahoma;
+	font-size: 14px;
+	text-decoration: none;
+	color: #333;
+	padding: 5px 10px;
+	box-sizing: border-box;
+}
+
+a:nth-child(1){
+	margin-top: 20px;
+}
+
+a:hover{
+	color: #777;
+	transition: 0.2s;
+	letter-spacing: 1px;
+	/*background-color: #EEE;*/
+	/*font-variant: small-caps;*/
+	/*font-weight: bold;*/
+}
+
+/*.tanda-show{
+	visibility: visible; color: red; font-size: 8px;}
+}*/
+
+.cabang-pilih{
+	display: block;
+	height: 30px;
+	line-height: 20px;
+	font-family: tahoma;
+	font-size: 14px;
+	text-decoration: none;
+	padding: 5px 10px;
+	box-sizing: border-box;
+	color: #888;
+	transition: 0.2s;
+	letter-spacing: 1px;
+	border-left: 2px solid salmon;
+	/*border-bottom: 1px solid salmon;*/
+	/*box-shadow: -1px 0 #CCC;*/
+	/*background-color: #EEE;*/
+	/*border: 1px solid #DDD;*/
+	/*font-variant: small-caps;*/
+}
