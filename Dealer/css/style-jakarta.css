@@ -1,0 +1,61 @@
+#jakarta thead tr th,
+#jakarta tbody tr td{
+	border: 1px solid rgb(170,170,170);
+}
+
+#jakarta thead tr th{
+	background-color: rgb(221,221,221);
+	text-align: center;
+}
+
+#jakarta thead tr th:nth-last-child(5),
+#jakarta tbody tr td:nth-last-child(5){
+	max-width: 20px;
+	text-align: center;
+}
+
+#jakarta thead tr th:nth-last-child(1),
+#jakarta tbody tr td:nth-last-child(1){
+	max-width: 320px;
+}
+
+#jakarta thead tr th:nth-last-child(2),
+#jakarta tbody tr td:nth-last-child(2){
+	max-width: 210px;
+}
+
+#jakarta thead tr th:nth-last-child(3),
+#jakarta tbody tr td:nth-last-child(3){
+	max-width: 180px;
+}
+
+.buana th,
+.buana td{border: 1px solid rgb(170, 170, 170);}
+
+.buana thead tr th{
+	background-color: rgb(221,221,221);
+	text-align: center;
+}
+
+.buana tbody tr td:nth-last-child(4){text-align: center;}
+
+.buana thead tr th:nth-last-child(3),
+.buana tbody tr td:nth-last-child(3){
+	min-width: 160px;
+	max-width: 180px;
+}
+
+.buana thead tr th:nth-last-child(2),
+.buana tbody tr td:nth-last-child(2){
+	min-width: 140px;
+	max-width: 160px;
+}
+
+.buana thead tr th:nth-last-child(1),
+.buana tbody tr td:nth-last-child(1){
+	min-width: 200px;
+	max-width: 540px;
+}
+
+#solite thead tr th:first-child,
+#solite tbody tr td:first-child{text-align: center;}

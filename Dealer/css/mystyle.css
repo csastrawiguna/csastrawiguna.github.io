@@ -1,0 +1,54 @@
+body{
+	height: 615px;
+}
+
+.row{
+	height: 100%;
+	width: 100%;
+}
+
+.h3{
+	height: 36px;
+	line-height: 36px;
+}
+
+.link-list{
+	margin: 20px auto;
+}
+
+a{
+	display: block;
+	height: 32px;
+	line-height: 32px;
+	/*border: 1px solid white;*/
+	width: 90%;
+	margin: 5px auto;
+	padding-left: 10px;
+}
+
+a:hover{
+	cursor: pointer;
+	background-color: #888;
+	transition: 0.3s;
+}
+
+.hide{
+	display: none;
+}
+
+.show{
+	display: all;
+	transition: 0.5s;
+}
+
+.pilih{	
+	background-color: #DDD;
+	box-sizing: border-box;
+	/*font-weight: bold;*/
+	text-transform: uppercase;
+	transition: 0.5s;
+}
+
+iframe{
+	border: none;
+}

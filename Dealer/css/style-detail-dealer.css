@@ -1,0 +1,64 @@
+table thead tr th{
+	text-align: center;
+	border: 0;
+	background-color: #DDD;
+}
+
+table{
+	border: 0;
+}
+
+table tbody td{
+	border: 1px solid #AAA;
+}
+
+table tbody tr td:first-child{
+	text-align: center;
+}
+
+table thead{
+	display: block;
+}
+
+table tbody{
+	height: 540px;
+	display: block;
+	overflow-y: auto;
+	overflow-x: hidden;
+}
+
+table tbody:hover{overflow-x: scroll; transition: 0.3s;}
+
+/*table thead tr th:nth-child(1),
+table tbody tr td:nth-child(1){min-width: 40px;}
+
+table thead tr th:nth-child(2),
+table tbody tr td:nth-child(2){min-width: 120px;}
+
+table thead tr th:nth-child(3),
+table tbody tr td:nth-child(3){min-width: 150px; width: 1em;}
+
+table thead tr th:nth-child(4),
+table tbody tr td:nth-child(4){min-width: 170px; width: 1em;}
+
+table thead tr th:nth-last-child(2){width: 100px; white-space: 0;}
+table tbody tr td:nth-last-child(2)
+
+table thead tr th:nth-last-child(1),
+table tbody tr td:nth-last-child(1){min-width: 200px; }*/
+
+--
+
+
+table thead tr th:nth-last-child(5){width: 150px;}
+table thead tr th:nth-last-child(4){width: 150px;}
+table thead tr th:nth-last-child(3){width: 170px;}
+table thead tr th:nth-last-child(2){width: 160px;}
+table thead tr th:nth-last-child(1){width: 215px;}
+
+table tbody tr td:nth-child(1){width: 50px;}
+table tbody tr td:nth-child(2){min-width: 120px;}
+table tbody tr td:nth-child(3){min-width: 150px; width: 1em;}
+table tbody tr td:nth-child(4){min-width: 170px; width: 1em;}
+table tbody tr td:nth-last-child(2){max-width: 150px;}
+table tbody tr td:nth-last-child(1){min-width: 200px;}

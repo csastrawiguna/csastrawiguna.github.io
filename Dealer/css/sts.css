@@ -1,0 +1,44 @@
+h3{
+	height: 40px;
+	line-height: 40px;
+	margin: 15px 5px;
+}
+
+table tr th{
+	font-size: 14px;
+	border: 1px solid #888;
+	text-align: center;
+	font-weight: bold;
+}
+
+table tr td{
+	font-size: 14px;
+	border: 1px solid #999;
+	height: 2em;
+	line-height: auto;
+	padding: 5px;
+}
+
+table thead tr th:nth-child(1),
+table tbody tr td:nth-child(1){
+	min-width: 30px;
+	text-align: center;
+}
+
+table thead tr th:nth-child(2),
+table thead tr th:nth-child(3),
+table tbody tr td:nth-child(2),
+table tbody tr td:nth-child(3){
+	min-width: 90px;
+}
+
+table thead tr th:nth-child(4),
+table tbody tr td:nth-child(4){
+	min-width: 150px;
+}
+
+table thead tr th:nth-child(5),
+table tbody tr td:nth-child(5){
+	max-width: 300px;
+	min-width: 200px;
+}
