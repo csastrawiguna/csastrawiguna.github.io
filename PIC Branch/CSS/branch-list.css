@@ -1,0 +1,71 @@
+body{
+	background-color: rgba(42, 147, 165, 0.2);
+	background: linear-gradient(to right, rgba(42, 147, 165, 0.2) 95%, white);
+}
+
+/*{
+	margin-top: 5px;
+	margin-left: 10px;
+	text-decoration: underline;
+}*/
+
+.headerCabang{
+	height: 38px;
+	line-height: 28px;
+	font-family: tahoma;
+	padding-left: 15px;
+	margin-right: 5px;
+	box-sizing: border-box;
+	border-bottom: 1px solid white;
+	font-size: 14px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	color: rgb(255, 128, 114);
+}
+
+.container{
+	overflow: hidden;
+}
+
+.headerCabang{
+	margin-left: 10px;
+}
+
+.daftar-cabang{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	height: 50%;
+	overflow: auto;
+	font-family: century gothic, arial, sans-serif;
+	font-size: 13px;
+}
+
+a{
+	display: block;
+	text-decoration: none;
+	margin-left: 20px;
+	width: 100px;
+	height: 28px;
+	line-height: 28px;
+	color: #333;
+	/*border: 1px red solid;*/
+	overflow: auto;
+}
+
+a:hover{
+	color: white;
+	letter-spacing: 1px;
+	transition: 0.3s; 
+	background-color: salmon;
+	/*border-radius: 3px;*/
+	text-align: center;
+	box-sizing: border-box;
+}
+
+.active{
+	color: white;
+	letter-spacing: 1px;
+	transition: 0.3s;background-color: salmon;
+	text-align: center;
+	transition: 0.3s;
+}

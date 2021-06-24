@@ -1,0 +1,20 @@
+.home{
+	font-family: tahoma;
+	font-size: 36px;
+	letter-spacing: 1px;
+	color: rgba(42, 147, 165, 0.8);
+	margin: 160px 0 20px 0;
+	text-align: center;
+	line-height: 40px;
+	height: 40px;
+}
+
+.keterangan{
+	font-family: century gothic, arial, sans-serif;
+	font-size: 22px;
+	letter-spacing: 1px;
+	color: rgba(12, 127, 135, 1);
+	text-align: center;
+	line-height: 33px;
+	height: 99px;
+}

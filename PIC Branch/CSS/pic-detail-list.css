@@ -1,0 +1,108 @@
+.header{
+	height: 36px;
+	line-height: 36px;
+	color: rgba(22, 147, 165, 1);
+	font-size: 20px;
+	font-weight: bold;
+	margin-left: 5px;
+	/*text-align: right;*/
+}
+
+table{
+	border-collapse: collapse;
+	font-family: ITC avant garde gothic, century gothic, verdana, arial;
+	font-size: 13px;
+	margin-left: 5px;
+}
+
+thead{
+	/*border: 1px lightgrey solid;*/
+	display: block;
+	background-color: rgba(22, 147, 165, 1);
+	color: white;
+	/*position: fixed;*/
+}
+
+thead tr{
+	height: 30px;
+	line-height: 30px;
+	/*position: fixed;*/
+}
+
+thead th{
+	border: 1px lightgrey solid;
+	box-sizing: border-box;
+	font-weight: bold;
+}
+
+thead th:nth-child(1),
+tbody td:nth-child(1){
+	min-width: 30px;
+	text-align: center;
+}
+
+thead th:nth-child(2),
+tbody td:nth-child(2){
+	width: 180px;
+	padding-left: 5px;
+}
+
+thead th:nth-child(3),
+tbody td:nth-child(3){
+	width: 240px;
+	padding-left: 5px;
+	letter-spacing: 1px;
+}
+
+thead th:nth-child(4),
+tbody td:nth-child(4){
+	width: 320px;
+	padding-left: 5px;
+}
+
+tbody{
+	/*border: 1px #CCC solid;	*/
+	height: 570px;
+	overflow-y: auto;
+	overflow-x: hidden;
+	display: block;
+}
+
+tbody tr{
+	border: 1px #CCC solid;	
+	height: 28px;
+	line-height: 28px;
+}
+
+tbody td{
+	border: 1px #CCC solid;	
+	display: table-cell;
+	vertical-align: middle;
+	/*padding-left: 3px;*/
+	box-sizing: border-box;
+}
+
+/*tbody tr:nth-child(even){
+	background-color: #EEE;
+}*/
+
+.coret{
+	color: red;
+	font-style: oblique;
+	text-decoration: line-through;
+}
+
+.highlight{
+	color: blue;
+	font-weight: bold;
+}
+
+tbody tr:hover{
+	background-color: rgba(250, 128, 114, 0.3);
+	cursor: pointer;
+	transition: 0.8s;
+}
+
+.pilih{
+	background-color: rgba(250, 128, 114, 0.3);
+}
