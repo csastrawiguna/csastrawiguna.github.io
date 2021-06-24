@@ -1,0 +1,80 @@
+@font-face{
+	font-family: 'ITC Avant Garde Gothic';
+	src: url(../../Font/ITC Avant Garde Gothic.ttf);
+}
+
+
+body{
+	font-family: Tahoma;
+	letter-spacing: 1px;
+}
+
+tr{
+	height: 30px;
+	line-height: 30px;
+}
+
+.atas{
+	position: fixed;
+	top: 0;
+	z-index: 99;
+	margin-left: 20px;
+	font-family: ITC Avant Garde Gothic;
+}
+
+.atas td{
+	background-color: rgb(18, 45, 70);
+	color: white;
+}
+
+.atas td, .bawah td{
+	border: 1px rgb(188, 185, 210) solid;
+	display: table-cell;
+	vertical-align: middle;
+	padding-left: 7px;
+	padding-right: 5px;
+	font-size: 13px;
+}
+
+.bawah{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-left: 20px;
+	color: rgb(18, 35, 50);
+	font-size: 13px;
+	font-family: ITC Avant Garde Gothic;
+}
+
+.bawah tr{
+	height: 30px;
+	line-height: 30px;
+}
+
+.ID{
+	width: 170px;
+	height: 30px;
+	line-height: 30px;
+	background-color: rgba(20, 40, 147, 0.1);
+	color: rgb(20, 40, 147);
+	text-align: center;
+	font-weight: bold;
+	position: fixed;
+	left: 600px;
+	top: 0;
+	border-radius: 5px;
+	border: 1px rgb(108, 105, 150) solid;
+}
+
+.bawah tr:hover{
+	background-color: #E0EAFA;
+	/*color: white;*/
+	/*font-size: 14px;*/
+	/*font-family: Arial monospaced for SAP, arial;*/
+	transition: 0.3s;
+	cursor: pointer;
+	box-sizing: border-box;
+}
+
+.active{
+	background-color: #E0FFFF;
+}

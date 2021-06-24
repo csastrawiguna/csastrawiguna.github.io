@@ -1,0 +1,49 @@
+@font-face{
+	font-family: 'ITC Avant Garde Gothic';
+	src: url(../../Font/ITC Avant Garde Gothic.ttf);
+}
+
+}
+@font-face{
+	font-family: 'Play';
+	src: url(../../Font/Play-Regular.ttf);
+}
+
+}
+body{
+	font-family: Play;
+	font-size: 13px;
+}
+
+.item{
+	width: 140px;
+	height: 32px;
+	line-height: 32px;
+	border-radius: 5px;
+	margin-top: 5px;
+	margin-left: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	vertical-align: middle;
+	text-align: left;
+	font-family: Tahoma;
+	font-size: 13px;
+	background-color: rgba(18, 45, 70, 0.3);
+	color: rgba(18, 35, 60, 1); 
+}
+
+a{
+	list-style-type: none;
+	text-decoration: none;
+}
+
+.item:hover{
+	background-color: rgba(18, 45, 70, 0.9);
+	color: white;
+	transition: 0.5s;
+}
+
+.pilihKiri{
+	background-color: rgba(18, 45, 70, 0.9);
+	color: white;
+}

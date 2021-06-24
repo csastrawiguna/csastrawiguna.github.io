@@ -1,0 +1,48 @@
+@font-face{
+	font-family: 'ITC Avant Garde Gothic';
+	src: url(../../Font/ITC Avant Garde Gothic.ttf);
+}
+
+.atas{
+	position: fixed;
+	margin-top: 0;
+	z-index: 99;
+}
+
+.atas td{
+	text-align: center;
+	background-color: rgb(18, 45, 70);
+	color: white;
+	font-family: ITC Avant Garde Gothic;
+}
+
+.atas tr,
+.bawah tr{
+	height: 24px;
+	line-height: 24px;
+	border: 1px rgb(178, 175, 190) solid;
+}
+
+.atas td,
+.bawah td{
+	border: 1px rgb(178, 175, 190) solid;
+	display: table-cell;
+	vertical-align: middle;
+	font-family: ITC Avant Garde Gothic, Century Gothic, sans-serif;
+	font-size: 13px;
+	color: rgb(18, 45, 70);
+	padding-left: 5px;
+	padding-right: 3px;
+	font-size: 13px;
+}
+
+.bawah{
+	font-family: ITC Avant Garde Gothic;
+}
+
+
+
+
+
+
+	

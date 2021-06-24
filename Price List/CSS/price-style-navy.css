@@ -1,0 +1,127 @@
+.header{
+	height: 40px;
+	max-width: 1000px;
+	line-height: 40px;
+	text-align: center;
+	color: rgb(100, 0, 8);
+	font-size: 20px;
+	font-weight: bold;
+	font-family: kalinga, arial, sans-serif;
+}
+
+table{
+	margin-left: 10px;
+	font-family: tahoma;
+	font-size: 13px;
+}
+
+thead{
+	border: 1px solid;
+	display: block;
+	box-sizing: border-box;
+	font-weight: bold;
+	letter-spacing: 1px
+}
+
+thead tr{
+	height: 24px;
+	line-height: 20px;
+}
+
+thead th{
+	border: 1px #555 solid;
+	background-color: #555;
+	color: white;
+	/*font-variant: small-caps;*/
+	/*font-size: 1.1em;*/
+	font-family: tahoma;
+}
+
+thead th:nth-child(1),
+tbody td:nth-child(1){
+	width: 120px;
+	min-width: 110px;
+	padding-left: 5px;
+}
+
+thead th:nth-child(2),
+tbody td:nth-child(2){
+	width: 400px;
+	min-width: 380px;
+	padding-left: 5px;
+}
+
+thead th:nth-child(3),
+tbody td:nth-child(3){
+	width: 110px;
+	min-width: 100px;
+	max-width: 120px;
+	text-align: center;
+}
+
+thead th:nth-child(4){
+	width: 150px;
+	max-width: 180px;
+	min-width: 140px;
+	text-align: center;
+}
+
+tbody td:nth-child(4){
+	width: 150px;
+	max-width: 180px;
+	min-width: 140px;
+	text-align: right;
+	padding-right: 10px;
+	box-sizing: border-box;
+	letter-spacing: 1px;
+	font-family: tahoma;
+}
+
+thead th:nth-child(5),
+tbody td:nth-child(5){
+	width: 180px;
+	text-indent: 5px;
+}
+
+tbody{
+	border: 1px rgba(80,80,80,0.4) solid;
+	height: 610px;
+	display: block;
+	box-sizing: border-box;
+	overflow-y: scroll;
+}
+
+tbody tr{
+	height: 28px;
+	line-height: 28px;
+}
+
+tbody td{
+	border: 1px rgba(80,40,40,0.3) solid;	
+	display: table-cell;
+	vertical-align: middle;
+}
+
+tbody tr:nth-child(even){
+	background-color: #F3F3F3;
+}
+
+.group-header{
+	height: 20px;
+	line-height: 20px;
+	background-color: #AAA;
+	letter-spacing: 2px;
+	color: #FF2;
+	text-indent: 30px;
+	box-sizing: border-box;
+	font-size: 14px;
+	/*font-weight: bold;*/
+	/*text-shadow: 0 0 5px yellow;*/
+} 
+
+.disc{
+	background-color: rgb(255, 250, 205);
+	color: red;
+	font-variant: small-caps;
+	font-weight: bold;
+}

@@ -1,0 +1,128 @@
+.header{
+	height: 40px;
+	max-width: 1000px;
+	line-height: 40px;
+	text-align: center;
+	color: rgb(231, 76, 60);
+	font-size: 20px;
+	font-weight: bold;
+	font-family: kalinga, arial, sans-serif;
+}
+
+tbody .group-header{
+	height: 24px;
+	line-height: 24px;
+	background-color: rgba(240, 153, 169, 0.3);
+	letter-spacing: 2px;
+	color: rgba(131, 76, 60, 1);
+	text-indent: 30px;
+	box-sizing: border-box;
+	font-size: 14px;
+	/*font-weight: bold;*/
+	/*text-shadow: 0 0 5px yellow;*/
+}
+
+table{
+	margin-left: 10px;
+	font-family: tahoma;
+	font-size: 13px;
+}
+
+thead{
+	border: 1px solid rgb(231, 76, 60);
+	display: block;
+	box-sizing: border-box;
+	font-weight: bold;
+	letter-spacing: 1px
+}
+
+thead tr{
+	height: 24px;
+	line-height: 20px;
+}
+
+thead th{
+	border: 1px rgb(231, 76, 60) solid;
+	background-color: rgb(231, 76, 60); ;
+	color: #FFF;
+	/*font-variant: small-caps;*/
+	/*font-size: 1.1em;*/
+	font-family: tahoma;
+	/*box-sizing: border-box;*/
+}
+
+thead th:nth-child(1),
+tbody td:nth-child(1){
+	width: 120px;
+	min-width: 110px;
+	padding-left: 5px;
+}
+
+thead th:nth-child(2),
+tbody td:nth-child(2){
+	width: 400px;
+	min-width: 380px;
+	padding-left: 5px;
+}
+
+thead th:nth-child(3),
+tbody td:nth-child(3){
+	width: 110px;
+	min-width: 100px;
+	max-width: 120px;
+	text-align: center;
+}
+
+thead th:nth-child(4){
+	width: 150px;
+	max-width: 180px;
+	min-width: 140px;
+	text-align: center;
+}
+
+tbody td:nth-child(4){
+	width: 150px;
+	max-width: 180px;
+	min-width: 140px;
+	text-align: right;
+	padding-right: 10px;
+	box-sizing: border-box;
+	letter-spacing: 1px;
+	font-family: tahoma;
+}
+
+thead th:nth-child(5),
+tbody td:nth-child(5){
+	width: 180px;
+	text-indent: 5px;
+}
+
+tbody{
+	border: 1px rgba(80,20,20,0.1) solid;
+	height: 610px;
+	display: block;
+	box-sizing: border-box;
+	overflow-y: scroll;
+}
+
+tbody tr{
+	height: 28px;
+	line-height: 28px;
+}
+
+tbody td{
+	border: 1px rgba(120,20,20,0.3) solid;	
+	display: table-cell;
+	vertical-align: middle;
+}
+
+/*tbody tr:nth-child(even){
+	background-color: #F3F3F3;
+}*/
+
+.disc{
+	background-color: rgb(255, 255, 150);
+	color: #f30000;
+	font-variant: small-caps;
+	font-weight: bold;
+}

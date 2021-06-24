@@ -1,0 +1,119 @@
+/*CSS RESET*/
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,	
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* -------- UJUNG CSS RESET ----- */
+
+table{
+	border: 1px rgba(88, 24, 69, 0.6) solid;
+}
+
+tr{
+	height: 26px;
+	line-height: 26px;
+}
+
+.top{
+	position: fixed;
+	z-index: 99;
+}
+
+.top td{
+	border: 1px rgba(228, 164, 229, 0.7) solid;
+	display: table-cell;
+	vertical-align: middle;
+	padding-left: 5px;
+	padding-right: 5px;
+	font-family: Arial, Sans-Serif;
+	font-size: 13px;
+	background-color: rgba(88, 24, 69, 1);
+	color: white;
+	font-weight: bold;
+}
+
+.bottom td{
+	border: 1px rgba(88, 24, 69, 0.6) solid;
+	display: table-cell;
+	vertical-align: middle;
+	padding-left: 5px;
+	padding-right: 5px;
+	font-family: tahoma, Sans-Serif;
+	font-size: 13px;
+}
+
+h2{
+	text-align: right;
+	font-size: 36px;
+	font-family: ITC Avant Garde Gothic, Century Gothic, Tahoma;
+	color: rgba(88, 24, 69, 1);
+	background-color: white; 
+}
+
+.close{
+	position: fixed;
+	top: 0;
+	left: 480px;
+	z-index: 999;
+}
+
+.close a{
+	list-style-type: none;
+	text-decoration: none;
+	font-family: courier;
+	font-size: 32px;
+	font-weight: bold;
+	color: darkred;
+	border: 1px black solid;
+}
+
+.disc{
+	background-color: rgb(255, 250, 205);
+	color: red;
+	font-variant: small-caps;
+	font-weight: bold;
+}
