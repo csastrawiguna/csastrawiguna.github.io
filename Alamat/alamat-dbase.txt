@@ -1,0 +1,858 @@
+Apartemen Amani kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Apartemen Ancol Mansion Tower Atlantic Ocean kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Apartemen Ancol Mansion Tower Pacific Ocean kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Apartemen Ancol sea front Condominium kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Apartemen Aston Marina Ancol Tower B kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Apartemen Aston Marina Ancol Tower C kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Apartemen Aston Marina Ancol Tower D kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Apartemen Aston Marina Tower D kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Apartemen Gunung Sahari jl.Ampera 7 kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Apartemen Marina Ancol Jl.Lodan Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Apartemen Mediterania Ancol Tower D kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Apartemen Mediterania Aston Ancol Tower C kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Apartemen Mediterania Aston Ancol Tower D kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Apartemen Mediterania Marina Ancol Tower B kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Apartemen Mitra Bahari kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Apartemen North Land Ancol Residence Jl.RE.Martadinata kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Comp 56 Jl.RE Martadinata kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Comp Asrama Transmigrasi jl.Kampung Muka kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Comp Cempaka Bahari Jl.Ancol Selatan kel.Sunter Agung kec.Tanjung Priok Jakut|Sunter Agung|Tanjung Priok|Jakut|Pulogadung
+Comp Central Taman Impian Jaya Ancol Jl.Pantai Sanur 6 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Comp Indo Ruko Jl.Lodan Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Comp Indo Ruko JL.Parangtritis Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Comp Kios Pos Jl.Ancol Barat 4 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Comp Lodan Center Jl.Lodan Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Comp Lodan Centre JL.Lodan Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Comp Marina Coast kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan |Jakut|Cideng
+Comp Marina Coast Cluster The Bukit kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan |Jakut|Cideng
+Comp Marini The Florest kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat |Pademangan|Jakut|Cideng
+Comp Metro Marina Ancol kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat |Pademangan |Jakut|Cideng
+Comp Metro Marina Ancol Jl.Metro Marina Timur 6 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Comp Metro Marina blok B kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Comp Metro Marina blok F kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Comp Metro Marina blok G kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Comp Metro Marina blok I kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Comp Metro Marina blok J kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Comp Pelabuhan Sunda Kelapa Gedung Batavia Marina jl.Raya Baruna kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Comp Primocon Nusa Lestari Jl.RE.Martadinata kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Comp Primokom Jl.RE Martadinata kel.Ancol Timur kec.Pademangan Jaktim|Ancol Timur|Pademangan |Jaktim|Pulogadung
+Galaxy Sports Ancol Jl.Lodan Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Gandi Memorial School Jl.Parangtritis 1 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Gedung Ancol Barat Business Park Jl.Ancol Barat kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Gedung Balitbang Kelautan dan Perikanan Jl.Pasir Putih kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Gedung Kobexindo Tower Lt.3 Jl.Pasir Putih Raya kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Gedung Pushidroshal TNI AL Jl.Pantai Kuta kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Gg.B-8 kel.Pademangan Timur kec.Pademangan Jakut|Pademangan Timur|Pademangan |Jakut|Pulogadung
+Gg.Pangandaran 4 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Gg.Siaga 4 kel.Pademangan Barat kec.Pedemangan Jakut|Pademangan Barat|Pedemangan|Jakut|Pulogadung
+Grand Boutique Mangga Dua Jl.Mangga Dua Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Grand Boutique Spa Jl.Gunung Sahari Raya kel.Gunung Sahari Utara kec.Sawah Besar Jakpus|Gunung Sahari Utara|Sawah Besar|Jakpus|Pulogadung
+Gudang 02S Pelabuhan Sunda Kelapa kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Gudang GMC Jl.Parangtritis kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Harco Mangga Dua blok G kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Hotel Marina Aston kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Hotel Mercure Jl.Pantai Indah kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan|Jakut|Pulogadung
+Indomaret Cab.Jakarta Jl.Ancol Barat 8 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Indomaret Jl.Ancol 1 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Indomaret Jl.Ancol Barat 8 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Indomaret Pasar Seni Ancol kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+ITC Mangga Dua lt.2 Jl.Mangga Dua kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Ampera 1 kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Jl.Ampera 2 kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Jl.Ampera 3 kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Jl.Ampera 4 kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Jl.Ampera 5 kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Jl.Ampera 6 kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Jl.Ampera 7 kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Jl.Ampera 8 kel.Pademangan Barat kec.Pademangan Barat Jaktim|Pademangan Barat|Pademangan Barat|Jaktim|Pulogadung
+Jl.Ancol Barat kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Ancol Barat 1 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Ancol Barat 1 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Ancol Barat 3 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Ancol Barat 4 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Ancol Barat 5 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Ancol Barat 6 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Ancol Barat 7 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Ancol Barat 8 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Ancol Baru RE Martadinata kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Ancol Baru Selatan kel.Sunter Agung kec.Tanjung Priok Jakut|Sunter Agung|Tanjung Priok|Jakut|Pulogadung
+Jl.Ancol Kampung Bandan kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Ancol Puri Marina Town House kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Ancol Selatan kel.Sunter Agung kec.Tanjung Priok Jakut|Sunter Agung|Tanjung Priok|Jakut|Pulogadung
+Jl.Ancol Selatan 1 kel.Sunter Agung kec.Tanjung Priok Jakut|Sunter Agung|Tanjung Priok|Jakut|Pulogadung
+Jl.Ancol Selatan 1 Pasar Bambu Kuning kel.Tanjung Priuk kec.Tanjung Priok Jakut|Tanjung Priuk|Tanjung Priok|Jakut|Pulogadung
+Jl.Ancol Selatan 2 kel.Sunter Agung kec.Tanjung Priok Jakut|Sunter Agung|Tanjung Priok|Jakut|Pulogadung
+Jl.Ancol Selatan 2 gg.Dadap kel.Sunter Agung kec.Tanjung Priok Jakut|Sunter Agung|Tanjung Priok|Jakut|Pulogadung
+Jl.Ancol Selatan Jembatan Hitam kel.Sunter Agung kec.Tanjung Priok Jakut|Sunter Agung|Tanjung Priok|Jakut|Pulogadung
+Jl.Ancol Timur E-6i kel.Sunter Agung kec.Tanjung Priok Jakut|Sunter Agung|Tanjung Priok|Jakut|Pulogadung
+Jl.Baru Ancol Selatan kel.Sunter Agung kec.Tanjung Priok Jakut|Sunter Agung|Tanjung Priok|Jakut|Pulogadung
+Jl.Baru Ancol Selatan 2 kel.Sunter Agung kec.Tanjung Priok Jakut|Sunter Agung|Tanjung Priok|Jakut|Pulogadung
+Jl.Baru Ancol Timur kel.Sunter Agung kec.Tanjung Priok Jakut|Sunter Agung|Tanjung Priok|Jakut|Pulogadung
+Jl.Baruna kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Baruna 1 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Baruna 2 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Baruna 3 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Beringin kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Bongkaran kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Budi Mulya kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Jl.Budi Mulya 4 kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Jl.Budi Mulya Ampera 4 Dalam kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Jl.Budi Mulya Ampera 7 kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Jl.Budi Mulya Barat kel.Pademangan Barat kec.Pedemangan Jakut|Pademangan Barat|Pedemangan|Jakut|Pulogadung
+Jl.Budi Mulya gg.Ampera 7 kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Jl.Budi Mulya gg.Swadaya 6 kel.Pademangan Barat kec.Pedemangan Jakut|Pademangan Barat|Pedemangan|Jakut|Pulogadung
+Jl.Budi Mulya Pasar Kepiting kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Jl.Budi Mulya Pasar Nalo kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Jl.Budi Mulya Raya gg.Siaga 1 kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Jl.Cemara kel.Lagoa kec.Koja Jakut|Lagoa|Koja|Jakut|Pulogadung
+Jl.Ekor Kuning kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Goyang kel.Pademangan Timur kec.Pademangan Jakut|Pademangan Timur|Pademangan|Jakut|Pulogadung
+Jl.Gunung Sahari kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Gunung Sahari 1 kel.Gunung Sahari Selatan kec.Kemayoran Jakpus|Gunung Sahari Selatan|Kemayoran|Jakpus|Pulogadung
+Jl.Gunung Sahari Ancol Petak 7 kel.Gunung Sahari kec.Kemayoran Jaktim|Gunung Sahari|Kemayoran|Jaktim|Pulogadung
+Jl.Gunung Sahari Raya kel.Gunung Sahari Selatan kec.Kemayoran Jakpus|Gunung Sahari Selatan|Kemayoran|Jakpus|Pulogadung
+Jl.Gunung Sari Ancol Ampera 6 kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Jl.H Murtado kel.Tugu Utara kec.Koja Jakut|Tugu Utara|Koja|Jakut|Pulogadung
+Jl.Hidup Baru gg.d-1 kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Jl.Kakap kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Kalijabat Ancol Dermaga Tanjung Tanjung Priuk kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Kamal Kayu Besar kel.Tegal Alur kec.Kalideres Jakbar|Tegal Alur |Kalideres|Jakbar|Cideng
+Jl.Kamal Muara kel.Kamal kec.Pejaringan Jakut|Kamal|Pejaringan|Jakut|Cideng
+Jl.Kamal Raya Rawa Melati kel.Tegal Alur kec.Kalideres Jakbar|Tegal Alur |Kalideres|Jakbar|Cideng
+Jl.Kampung Bandan kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Kampung Bandan gg .Gloria kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan |Jakut|Cideng
+Jl.Kampung Bandan Kramat kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan|Jakut|Pulogadung
+Jl.Kampung Bandan Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Kampung Japat Londan Dalam 1c kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Kampung Muka kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Karang Bolong 1 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Karang Bolong 2 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Karang Bolong 3 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Karang Bolong 4 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Karang Bolong 5 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Karang Bolong 6 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Karang Bolong 7 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Karang Bolong Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Karang Bolong Raya 12 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.karang Bolong Raya Flat Ancol Jaya Lt.1 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Karang Bolong Raya Flat Ancol Jaya Lt.2 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Kembung kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.kencur Kampung Muka kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Kerapu Kampung Jafat kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Ketel PLTU Kali Japat kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Krapu kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Krapu Dalam kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Krapu Pasar Ikan kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Kunir kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Lambo kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Lodan blok B-15 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Lodan Dalam kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat |Pademangan|Jakut|Cideng
+Jl.Lodan Dalam 1 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Lodan Dalam 11C kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Lodan Dalam 1B kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Lodan Dalam 1C kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Lodan Dalam 1D kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Lodan Dalam 2 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Lodan Dalam 2A kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Lodan Dalam 2B kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Lodan Dalam 2C kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Lodan Dalam 2D kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat |Pademangan|Jakut|Cideng
+Jl.Lodan Dalam 5 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Lodan Dalam 6 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Lodan Dalam 6 Kampung Japa Saleh kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Lodan kampung Bandan kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Lodan Kampung Japat kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Lodan Kampung Japat Saleh kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Lodan Kampung Walang kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Lodan Raya 2a Apartemen Mediterania Marin Ancol Tower D lt.17 ac kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Lodan Raya gg.Madrasah kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Lodan Raya Kampung Bandan kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Lodan Raya Kampung Bandan gg.Madrasah kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Lodan Raya Kampung Muka kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Lodan Raya No.2 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Luar Batang kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Luar Batang 2 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Luar Batang 3 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Luar Batang 4 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Luar Batang 5 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Luar Batang 6 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Luar Batang 7 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Luar Batang 8 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Luar Batang 9 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Luar Batang Empang kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Malaka 2 kel.Rawamalaka kec.Tambora Jakbar|Rawamalaka|Tambora|Jakbar|Cideng
+Jl.Malaka 2 gg.Ancol Kampung Sepat kel.Rorotan kec.Clincing Jakut|Rorotan|Clincing|Jakut|Pulogadung
+Jl.Mangga Dua kel.Mangga Dua kec.Sawah Besar Jakut|Mangga Dua|Sawah Besar|Jakut|Cideng
+Jl.Mangga Dua 8 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Mangga Dua Raya Kampung Baru kel.Mangga Dua kec.Sawah Besar Jakut|Mangga Dua|Sawah Besar|Jakut|Cideng
+Jl.Mangga Ujung gg.Rumbia 5 kel.Tugu Utara kec.Koja Jakut|Tugu Utara|Koja|Jakut|Pulogadung
+Jl.Manyar Dalam kel.Tegal Alur kec.Kalideres Jakbar|Tegal Alur |Kalideres|Jakbar|Cideng
+Jl.Marina 2 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Marina Coast kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Marina Cove kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Marina Raya Ancol Barat kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Martadinata 100 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan|Jakut|Pulogadung
+Jl.Metro Marina kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Metro Marina Ancol kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Metro Marina Barat 1 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Metro Marina Barat 2 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Metro Marina Barat 3 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Metro Marina Barat 4 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Metro Marina Barat 5 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Metro Marina Timur 1 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Metro Marina Timur 2 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Metro Marina Timur 3 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Metro Marina Timur 4 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Metro Marina Timur 5 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Metro Marina Timur 6 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Metro Marina Timur 7 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Mitra Bahari kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Muara Bahari kel.Sunter Agung kec.Tanjung Priok Jakut|Sunter Agung|Tanjung Priok|Jakut|Pulogadung
+Jl.Muara Bahari Ancol Selatan kel.Sunter Agung kec.Tanjung Priok Jakut|Sunter Agung|Tanjung Priok|Jakut|Pulogadung
+Jl.Muara Baru Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Pademangan 2 gg.20 kel.Pademangan Timur kec.Pademangan Jakut|Pademangan Timur|Pademangan|Jakut|Pulogadung
+Jl.Pademangan 3 gg.16 kel.Pademanagan Timur kec.Pademangan Jakut|Pademanagan Timur|Pademangan|Jakut|Pulogadung
+Jl.Pademangan 4 gg.17 kel.Pademanagan Timur kec.Pademangan Jakut|Pademanagan Timur|Pademangan|Jakut|Pulogadung
+Jl.Pademangan 4 gg.36 kel.Pademangan Timur kec.Pademangan Jakut|Pademangan Timur|Pademangan|Jakut|Pulogadung
+Jl.Pademangan 8 kel.Pademangan Timur kec.Pademangan Jakut|Pademangan Timur|Pademangan |Jakut|Pulogadung
+Jl.Pademangan 8 gg.Melati kel.Pademangan Timur kec.Pademangan Jakut|Pademangan Timur|Pademangan|Jakut|Pulogadung
+Jl.Pademangan Barat kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Jl.Pademangan Timur 7 gg.Mawar 1 kel.Pademangan Timur kec.Pademangan Jakut|Pademangan Timur|Pademangan |Jakut|Pulogadung
+Jl.Pademangan Timur 8 kel.Pademangan TImur kec.Pademangan Jakut|Pademangan TImur|Pademangan |Jakut|Pulogadung
+Jl.Pademangan Timur gg.Mawar 3 kel.Pademangan Timur kec.Pademangan Jakut|Pademangan Timur|Pademangan|Jakut|Pulogadung
+Jl.Pakin kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Pangandaran 1 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Pangandaran 2 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Pangandaran 3 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Pangandaran 5 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Pangandaran 6 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Pangandaran 7 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Pangandaran 8 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Pangandaran 9 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Pangeran Jayakarta Dalam Sidolin kel.Mangga Dua Selatan kec.Sawah Besar Jakut|Mangga Dua Selatan|Sawah Besar|Jakut|Cideng
+Jl.Pantai kuta kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pantai Kuta 1 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pantai Kuta 2 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pantai Kuta 3 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan|Jakut|Pulogadung
+Jl.Pantai Kuta 4 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan|Jakut|Pulogadung
+Jl.Pantai Kuta 5 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pantai Kuta 6 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pantai Kuta 7 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pantai Kutai 3 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pantai Sanur 1 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pantai Sanur 2 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pantai Sanur 3 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pantai Sanur 4 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pantai Sanur 5 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pantai Sanur 6 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pantai Sanur VI kel.Ancol Timur kec.Pademangan |Ancol Timur|Pademangan ||Pulogadung
+Jl.Panti Kuta 1 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan|Jakut|Pulogadung
+Jl.Panti Kuta 6 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Parang Tritis kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Parang Tritis 1 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Parang Tritis 2 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Parang Tritis 3 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Parang Tritis 4 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Parang Tritis 5 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Parang Tritis 6 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Parang Tritis 7 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Parang Tritis 8 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Parang Tritis Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Parangkritis 1 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Parangtristis 2 Kavling 9 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat |Pademangan |Jakut|Cideng
+Jl.Parangtritis 1 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat |Pademangan|Jakut|Cideng
+Jl.Parangtritis Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat |Pademangan|Jakut|Cideng
+Jl.Pasar Bambu Kuning kel.Sunter Agung kec.Tanjung Priok Jaktim|Sunter Agung|Tanjung Priok|Jaktim|Pulogadung
+Jl.Pasar Ikan kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Pasir Putih kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pasir Putih 1 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pasir Putih 10 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pasir Putih 2 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pasir Putih 3 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pasir Putih 4 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pasir Putih 5 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pasir Putih 6 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pasir Putih 7 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pasir Putih 7 Kav.12 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pasir Putih 8 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pasir Putih 9 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pasir Putih Raya kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan|Jakut|Pulogadung
+Jl.Pasir Putih Raya Kav.1 kel.Ancol TImur kec.Pademangan Jakut|Ancol TImur|Pademangan |Jakut|Pulogadung
+Jl.Pasir Putih Raya lt.6 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pasir Putih Raya Perum Ancol Timur Pasir Putih 9 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pasir Putih Tengah kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pasir Sanur 2 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pasri Putih 1 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Pemandangan 2 kel.Gunung Sahari kec.Kemayoran Jaktim|Gunung Sahari|Kemayoran|Jaktim|Pulogadung
+Jl.Pengadaran 3 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Pengandaran 6 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat |Pademangan |Jakut|Cideng
+Jl.Pengandaran 9 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Pesanggrahan 1 kel.Pademangan TImur kec.Pademangan Jakut|Pademangan TImur|Pademangan |Jakut|Pulogadung
+Jl.Pesanggrahan 2 kel.Pademangan TImur kec.Pademangan Jakut|Pademangan TImur|Pademangan|Jakut|Pulogadung
+Jl.Petak Asem 1 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Phinisi kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Puri Jimbaran kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Puri Marina kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Puri Marina 2 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Puri Marina Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Puri Nusa Dua Blok EF No.35 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Rawa Melati kel.Tegal Alur kec.Kalideres Jakbar|Tegal Alur |Kalideres|Jakbar|Cideng
+Jl.Raya Ancol Baru Selatan Ujung kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Raya Ancol Timur kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Raya Bandan Kampung Muka kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Raya Duri Kosambi kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Raya Kapuk Kamal Kampung Rawa Melati kel.Tegal Alur kec.Kalideres Jakbar|Tegal Alur |Kalideres|Jakbar|Cideng
+Jl.RE Martadinata kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.RE Martadinata 1 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.RE Martadinata 10 blok A kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.RE Martadinata Comp.primacon kel.Ancol Timur kec.Pademangan Jaktim|Ancol Timur|Pademangan |Jaktim|Pulogadung
+Jl.RS Ancol kel.Sunter Agung kec.Tanjung Priok Jakut|Sunter Agung|Tanjung Priok|Jakut|Pulogadung
+Jl.RS Ancol Selatan kel.Sunter Agung kec.Tanjung Priok Jakut|Sunter Agung|Tanjung Priok|Jakut|Pulogadung
+Jl.RS Ancol Selatan gg.Teratai kel.Sunter Agung kec.Tanjung Priok Jakut|Sunter Agung|Tanjung Priok|Jakut|Pulogadung
+Jl.RS Paru-Paru Ancol kel.Sunter Agung kec.Tanjung Priok Jakut|Sunter Agung|Tanjung Priok|Jakut|Pulogadung
+Jl.RS Paru-Paru Ancol Selatan kel.Sunter Agung kec.Tanjung Priok Jakut|Sunter Agung|Tanjung Priok|Jakut|Pulogadung
+Jl.Samudra 1 gg.Bak Air 7 kel.Sunter Agung kec.Tanjung Priok Jakut|Sunter Agung|Tanjung Priok|Jakut|Pulogadung
+Jl.Sanur 4 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Semut Ujung kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Siaga 5 kel.Pademangan Barat kec.Pademangan Jaktim|Pademangan Barat|Pademangan|Jaktim|Pulogadung
+Jl.Sukapura kel.Sukapura kec.Clincing Jakut|Sukapura|Clincing|Jakut|Pulogadung
+Jl.Taman Impian Jaya Ancol kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Taman Marina kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Taman Marina Asri b3e kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Tenaga Uap Kalijapat kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Jl.Tongkol kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Tongkol Dalam kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Tongkol Dalam Kolong Tol kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Jl.Walang Timur kel.Tugu Utara kec.Koja Jakut|Tugu Utara|Koja|Jakut|Pulogadung
+Jl.Walang Timur C5 kel.Tugu Utara kec.Koja Jakut|Tugu Utara|Koja|Jakut|Pulogadung
+Jl.Waspada Raya kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Jl.Waspada Raya / Jl.Budi Mulya gg.2 kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Kampung Bahari kel.Tanjung Priok kec.Tanjung Priok Jakut|Tanjung Priok|Tanjung Priok|Jakut|Pulogadung
+Kampung Bahari gg.2 kel.Tanjung Priok kec.Tanjung Priok Jakut|Tanjung Priok|Tanjung Priok|Jakut|Pulogadung
+Kampung Bandan kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Kampung Bandan Ancol - Mes Lama Alexis Hotel lt.3 Kamar.310 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Kampung Bandan gg.Madrasah kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Kampung Bandan Lodan Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Kampung Gapat Jl.Lodan Dalam 1 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Kampung Japat Saleh kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Kampung Kebon Sayur kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Kampung Mandiri kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Kampung Moka Kebun Sayur kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Kampung Muara Bahari kel.Tanjung Priok kec.Tanjung Priok Jakut|Tanjung Priok|Tanjung Priok|Jakut|Pulogadung
+Kampung Muara Bahari gg.2 kel.Sunter Agung kec.Tanjung Priok Jakut|Sunter Agung|Tanjung Priok|Jakut|Pulogadung
+Kampung Muka kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Kampung Muka / Kampung Baru kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Kampung Muka kampung bandan kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Kantor Marketing Apartemen Grand Marina Jl.Puri Marina Town House kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Kantor PT.Sentos Asian Line Jl.RE Martadinata kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Kantor Pusat Penelitian Oceanografi Lifi Jl.Pasir Putih 1 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Kawasan Industri Ancol kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Kebon Sayur Kampung Muka kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Kios Warung Jogja Jl.Ancol Barat 6 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Klinik Ananda Medika Jl.Kapuk Kamal Raya kel.Tegal Alur kec.Kalideres Jakbar|Tegal Alur |Kalideres|Jakbar|Cideng
+Lobby Gedung Kobex Indo Tower Jl.RE Martadinata kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Marina Caost The Bukit kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Marina Coffe kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Marrina Coffe 5 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Maspion Plaza Jl.Gunung Sahari no.18|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Mess PT AGUNG WAHANA INDONESIA/SENSE Mangga Dua Square lt.6B Jl.Gunung Sahari Raya kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Nelayan Seafood Restaurant Jl.Karang Bolong Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Pantai Indah Utara 1 kel.Kamal Muara kec.Penjaringan Jakut|Kamal Muara|Penjaringan|Jakut|Cideng
+Pantai Karnaval Ancol (Proyek Ancol Beach City) kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Pantai Marina Ancol Dermaga Marina 19 Ancol - (Kapal Bintang Bali) kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Pantai Marina Ancol Dermaga Marina 19 Ancol - (Tepatnya di Kapal Padi) kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Pasar Seni Ancol Taman Impian Jaya Ancol kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Pelabuhan Sunda Kelapa Pasar Ikan Jl.Lodan kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat |Pademangan|Jakut|Cideng
+Pengadilan Jakut Jl.Ancol Selatan kel.Sunter Agung kec.Tanjung Priok Jakut|Sunter Agung|Tanjung Priok|Jakut|Pulogadung
+Perum Ancol Elestik Jl.Pantai Sanur 4 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Perum Ancol Mnsion Town House Jl.Pasir Putih kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Perum Ancol The Jimbaran Residence kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur |Pademangan |Jakut|Pulogadung
+Perum Ancol Timur Jl.Pantai Kuta 3 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Perum Ancol Timur Jl.Pantai Sanur 5 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Perum Ancol Timur Jl.Pantai Sanur 6 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Perum Coasta Villa Ancol Jl.Ancol Timur kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan|Jakut|Pulogadung
+Perum Cost dBukit Marina Ancol kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Grand Marina Residence Jl.Puri Marina Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Grand Marina Town House Jl.Puri Marina Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Jaya Ancol sea front kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Jimbaran Residence kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Perum Kalibata Indah Jl.Durian kel.Rawajati kec.Pancoran Jaksel|Rawajati|Pancoran|Jaksel|Jaksel
+Perum Marina Coast kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Marina Coast Jl.Marina Coast kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Marina Coast Residence kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Marina Coast Royal Residence kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Marina Coast The Bukit kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Marina Coast The Green kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Marina Cove kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Marina Forest kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Marina Taman Impian Jaya Ancol kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan|Jakut|Pulogadung
+Perum Marina Toast Royal Residence kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Metro Marina kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat |Pademangan|Jakut|Cideng
+Perum Metro Marina Ancol kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat |Pademangan|Jakut|Cideng
+Perum Metro Marina Jl.Metro Marina kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Metro Marina Jl.Metro Marina Barat 1 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Metro Marina Jl.Metro Marina Barat 2 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Metro Marina Jl.Metro Marina Barat 3 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Metro Marina Jl.Metro Marina Timur 8 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Metro Marina Timur kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Perum Puri Jimbaran kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Perum Puri Jimbaran Jl.Puri Jimbaran kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan|Jakut|Pulogadung
+Perum Puri Jimbaran Jl.Puri Jimbaran 1 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Perum Puri Jimbaran Jl.Puri Jimbaran 1 blok E6-B kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Perum Puri Jimbaran Jl.Puri Jimbaran 2 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Perum Puri Jimbaran Jl.Puri Jimbaran Asri kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Perum Puri Jimbaran Jl.Puri Jimbaran Asri 2 blok E6-C kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Perum Puri Jimbaran Jl.Puri Jimbaran Raya kel.Ancol Timur kec.Pademangan Jaktim|Ancol Timur|Pademangan |Jaktim|Pulogadung
+Perum Puri Marina kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Puri Marina 1 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Puri Marina 2 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Puri Marina Ancol Barat Town House kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Puri Marina Asri Jl.Taman Marina Asri kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Puri Marina Comp Town House kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Puri Marina Jl.Marina kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Puri Marina Jl.Marina 1 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Puri Marina Jl.Marina 2 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Puri Marina Jl.Pangandaran 2 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Puri Marina Jl.Taman Marina kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Puri Marina Jl.Taman Marina Indah kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Puri Marina Jl.Taman Marina Permai kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Puri Marina The Forest Jl.Taman Marina kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Puri Marina Town House kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat |Pademangan|Jakut|Cideng
+Perum Puri Marina Town House Grand Marina kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum puri Marina Town House Jl.Puri Marina Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Rasa Sayang kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Perum Taman Impian Jaya Ancol Jl.Pantai Kuta 2 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Perum Taman Impian Jaya Ancol Jl.Pantai Sanur 3 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan|Jakut|Pulogadung
+Perum Taman Marina kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Taman Marina Ancol kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Taman Marina Asri kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Taman Marina Indah kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Taman Marina Jl.Taman Marina Indah kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum The Bukit kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum The Bukit Mas Coast kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat |Pademangan|Jakut|Cideng
+Perum The Forest Jl.Ancol Marina kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum The Green Ancol kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum The Jimbaran Residence kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+PLTGU Indonesia Power Jl.RE Martadinata kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+PT.Anugrah Buana Utama Jl.Parangtritis Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+PT.Bose Comp Indo Ruko Jl.Lodan Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+PT.Charoen Pokhand Indonesia Lt.6 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+PT.Charoen Pokhand Jl.Ancol 8 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+PT.Charoen Pokphand Jl.Ancol Barat kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+PT.Daimond Coldstorage Perum Pasir Putih Jl.Pasir Putih Raya Kav.1 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+PT.Diamond Cold Storage Ancol Jl.Pasir Putih Raya Kav.1 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+PT.Hexagon Jl.Parangtritis Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+PT.Indo Marco Prisma Tama Jl.Ancol Barat kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+PT.Indofood CBP Sukses Makmur tbk Jl.Ancol Barat 1 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+PT.Indomarko Prismatama Jl.Ancol Barat 8 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+PT.Karya Mulya Loka Persada Jl.RE Martadinata kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan|Jakut|Pulogadung
+PT.Kobexindo Traktor Jl.Pasir Putih Raya kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan|Jakut|Pulogadung
+PT.Mustika Citra Rasa Jl.Karang Bolong Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+PT.Paramita boga mandiri Comp Lodan Center jl.Lodan Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+PT.Piece Industrial Packaging Jl.Lodan Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+PT.Sinar Antjol Jl.Lodan Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+PT.Wirotono Baru Jl.Ancol Barat 3 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+PUSHIDROS TNI AU Jl.Pantai Kuta 5 kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Restoran Bandar Jakarta Taman Impian Jaya Ancol kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan|Jakut|Pulogadung
+Rukan Mangga Dua Square kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Rukan Mediterania Marina Residance Jl.Lodan Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Ruko Aston Marina kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Ruko Ijo Jl.Karang Bolong Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Ruko Konveksi Jl.RE Martadinata kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan|Jakut|Pulogadung
+Ruko Lodan Center Jl.Lodan Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Ruko Lodan Jl.Parang Tritis Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat |Pademangan |Jakut|Cideng
+Ruko Mahkota Ancol Jl.RE Martadinata kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Ruko Marinatama Jl.Gunung Sahari kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Ruko Mediterania Marina Jl.Lodan Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Ruko Permata Ancol Jl.RE Martadinata kel.Ancol Timur kec.Pademangan Jaktim|Ancol Timur|Pademangan |Jaktim|Pulogadung
+Ruko Permata Ancol Jl.RE Martadinata Blok B kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Ruko Permata Ancol Jl.RE Martadinata Blok L kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Ruko Permata Ancol Jl.RE Martadinata Blok P kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Ruko Primokon Jl.RE Martadinata kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan|Jakut|Pulogadung
+Ruko Tekstil Jl.Mangga Dua Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Ruko Textile Mangga Dua Jl.Mangga Dua Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Ruko Tongkol Indah Jl.Tongkol kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Showroom Nico Bursa Mobil Mangga Dua Square LG Lot L.6-17 kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Supermarket Ancol Beach City Pantai Karnaval lt.Ground att-2 kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan|Jakut|Pulogadung
+Taman Impian Jaya Ancol Jl.Lodan Timur kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+Toko Kaca Sinar Ampera Jl.Gunung Sahari Ancol gg.Ampera 2 kel.Pademangan Barat kec.Pademangan Jakut|Pademangan Barat|Pademangan|Jakut|Pulogadung
+Toko Maju Jl.Tongkol kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Toko Saiful Jl.Lodan Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Universitas Bunda Mulia Jl.Lodan Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Vihara Mahavira Graha Pusat Jl.Lodan Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Warung Rokok dan Minuman Pelabuhan Sunda Kelapa Jl.penghubung kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Wisma Atlit Bahtera Jaya Jl.Ketel Uap kel.Ancol Timur kec.Pademangan Jakut|Ancol Timur|Pademangan |Jakut|Pulogadung
+WTC Mangga Dua Jl.Mangga Dua Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+WTC Mangga Dua Tahap 2 Jl.Mangga Dua Raya kel.Ancol Barat kec.Pademangan Jakut|Ancol Barat|Pademangan|Jakut|Cideng
+Perum Bintaro Jaya Sektor 5 Jl.Perkici 1 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Perkici 10 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Perkici 11 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Perkici 12 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Perkici 13 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Perkici 14 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Perkici 15 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Perkici 16 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Perkici 17 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Perkici 2 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Perkici 3 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Perkici 4 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Perkici 5 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Perkici 6 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Perkici 7 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Perkici 8 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Perkici 9 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Pisok kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Pisok 1 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Pisok 10 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Pisok 11 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Pisok 12 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Pisok 13 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Pisok 14 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Pisok 15 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Pisok 16 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Pisok 17 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Pisok 18 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Pisok 19 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Pisok 2 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Pisok 2 blok EA-12 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Pisok 20 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Pisok 21 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Pisok 22 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Pisok 3 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Pisok 4 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Pisok 5 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Pisok 6 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Pisok 7 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Pisok 8 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Pisok 9 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Puter 1 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Puter 2 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Puter 3 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Puter 4 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Puter 5 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Puter 6 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Puter 7 kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Bintaro Jaya Sektor 5 Jl.Puter Raya kel.Pasir Ranji kec.Ciputat Timur Tangsel|Pasir Ranji|Ciputat Timur|Tangsel|Jaksel
+Perum Pondok Jaya Jl.Asbes kel.Pondok Karya kec.Pondok Aren Tangsel|Pondok Karya|Pondok Aren|Tangsel|Jaksel
+Perum Pondok Jaya Jl.Batu kel.Pondok Karya kec.Pondok Aren Tangsel|Pondok Karya|Pondok Aren|Tangsel|Jaksel
+Perum Pondok Jaya Jl.Besi kel.Pondok Karya kec.Pondok Aren Tangsel|Pondok Karya|Pondok Aren|Tangsel|Jaksel
+Perum Pondok Jaya Jl.Beton kel.Pondok Karya kec.Pondok Aren Tangsel|Pondok Karya|Pondok Aren|Tangsel|Jaksel
+Perum Pondok Jaya Jl.Eternit kel.Pondok Karya kec.Pondok Aren Tangsel|Pondok Karya|Pondok Aren|Tangsel|Jaksel
+Perum Pondok Jaya Jl.Genteng kel.Pondok Karya kec.Pondok Aren Tangsel|Pondok Karya|Pondok Aren|Tangsel|Jaksel
+Perum Pondok Jaya Jl.Granit kel.Pondok Karya kec.Pondok Aren Tangsel|Pondok Karya|Pondok Aren|Tangsel|Jaksel
+Perum Pondok Jaya Jl.Kabel kel.Pondok Karya kec.Pondok Aren Tangsel|Pondok Karya|Pondok Aren|Tangsel|Jaksel
+Perum Pondok Jaya Jl.Kaca kel.Pondok Karya kec.Pondok Aren Tangsel|Pondok Karya|Pondok Aren|Tangsel|Jaksel
+Perum Pondok Jaya Jl.Kaso kel.Pondok Karya kec.Pondok Aren Tangsel|Pondok Karya|Pondok Aren|Tangsel|Jaksel
+Perum Pondok Jaya Jl.Keramik kel.Pondok Karya kec.Pondok Aren Tangsel|Pondok Karya|Pondok Aren|Tangsel|Jaksel
+Perum Pondok Jaya Jl.Koral kel.Pondok Karya kec.Pondok Aren Tangsel|Pondok Karya|Pondok Aren|Tangsel|Jaksel
+Perum Pondok Jaya Jl.Kunci kel.Pondok Karya kec.Pondok Aren Tangsel|Pondok Karya|Pondok Aren|Tangsel|Jaksel
+Perum Pondok Jaya Jl.Makadam kel.Pondok Karya kec.Pondok Aren Tangsel|Pondok Karya|Pondok Aren|Tangsel|Jaksel
+Perum Pondok Jaya Jl.Marmer kel.Pondok Karya kec.Pondok Aren Tangsel|Pondok Karya|Pondok Aren|Tangsel|Jaksel
+Perum Pondok Jaya Jl.Mosaik kel.Pondok Karya kec.Pondok Aren Tangsel|Pondok Karya|Pondok Aren|Tangsel|Jaksel
+Perum Pondok Jaya Jl.Nako kel.Pondok Karya kec.Pondok Aren Tangsel|Pondok Karya|Pondok Aren|Tangsel|Jaksel
+Perum Pondok Jaya Jl.Paku kel.Pondok Karya kec.Pondok Aren Tangsel|Pondok Karya|Pondok Aren|Tangsel|Jaksel
+Perum Pondok Jaya Jl.Pasir kel.Pondok Karya kec.Pondok Aren Tangsel|Pondok Karya|Pondok Aren|Tangsel|Jaksel
+Perum Pondok Jaya Jl.Pondok Jaya kel.Pondok Karya kec.Pondok Aren Tangsel|Pondok Karya|Pondok Aren|Tangsel|Jaksel
+Perum Pondok Jaya Jl.Porselin kel.Pondok Karya kec.Pondok Aren Tangsel|Pondok Karya|Pondok Aren|Tangsel|Jaksel
+Perum Pondok Jaya Jl.Semen kel.Pondok Karya kec.Pondok Aren Tangsel|Pondok Karya|Pondok Aren|Tangsel|Jaksel
+Perum Pondok Jaya Jl.Sirap kel.Pondok Karya kec.Pondok Aren Tangsel|Pondok Karya|Pondok Aren|Tangsel|Jaksel
+Perum Pondok Jaya Jl.Terakota kel.Pondok Karya kec.Pondok Aren Tangsel|Pondok Karya|Pondok Aren|Tangsel|Jaksel
+Perum Pondok Jaya Jl.Teraso kel.Pondok Karya kec.Pondok Aren Tangsel|Pondok Karya|Pondok Aren|Tangsel|Jaksel
+Perum Pondok Jaya Jl.Triplek kel.Pondok Karya kec.Pondok Aren Tangsel|Pondok Karya|Pondok Aren|Tangsel|Jaksel
+Perum Pondok Jaya Jl.Ubin kel.Pondok Karya kec.Pondok Aren Tangsel|Pondok Karya|Pondok Aren|Tangsel|Jaksel
+Perum Taman Asri kel.Gaga kec.Larangan Tangsel|Gaga|Larangan|Tangsel|Jaksel
+Kp.Pamahan kel.Jatireja kec.Cikarang Timur Kab.Bekasi|Jatireja|Cikarang Timur|Kab.Bekasi|Bekasi
+Perum Bukit Golf Mediterania jl.Johor Hijau Golf 1 kel. kec.Penjaringan Jakut||Penjaringan|Jakut|Cideng
+Comp Griya Inti Sentosa kel.Sunter Agung kec.Tanjung Priok Jakut|Sunter Agung|Tanjung Priok|Jakut|Pulogadung
+Capital Residence Tower Office lt.7 jl.Jend Sudirman kav.52-53 SCBD Jaksel kel.Senayan kec.Kebayoran Baru Jaksel|Senayan|Kebayoran Baru|Jaksel|Jaksel
+Jl.Pondok Bambu Asri Timur 5 kel.Pondok Bambu kec.Duren Sawit Jaktim|Pondok Bambu|Duren Sawit|Jaktim|Pulogadung
+Jl.Pondok Bambu Asri Timur 4 kel.Pondok Bambu kec.Duren Sawit Jaktim|Pondok Bambu|Duren Sawit|Jaktim|Pulogadung
+Jl.Pondok Bambu Asri Timur 3 kel.Pondok Bambu kec.Duren Sawit Jaktim|Pondok Bambu|Duren Sawit|Jaktim|Pulogadung
+Jl.Pondok Bambu Asri Timur 2 kel.Pondok Bambu kec.Duren Sawit Jaktim|Pondok Bambu|Duren Sawit|Jaktim|Pulogadung
+Jl.Pondok Bambu Asri Timur 1 kel.Pondok Bambu kec.Duren Sawit Jaktim|Pondok Bambu|Duren Sawit|Jaktim|Pulogadung
+Apartemen Pavilion Jl.KH.Mas Mansyur kel.Karet Tengsin kec.Tanah Abang Jakpus|Karet Tengsin|Tanah Abang|Jakpus|Jaksel
+Apartemen Istanan Sahid Jl.Jend.Sudirman kel.Karet Tengsin kec.Tanah Abang Jakpus|Karet Tengsin|Tanah Abang|Jakpus|Jaksel
+Apartemen Sudirman Park Jl.KH.Mas Mansyur kel.Karet Tengsin kec.Tanah Abang Jakpus|Karet Tengsin|Tanah Abang|Jakpus|Jaksel
+Apartemen Sudirman Park Tower B Jl.KH.Mas Mansyur kel.Karet Tengsin kec.Tanah Abang Jakpus|Karet Tengsin|Tanah Abang|Jakpus|Jaksel
+Jl.Danau Buyan blok F-1 kel.Bendungan Hilir kec.Tanah Abang Jakarta Pusat|Bendungan Hilir|Tanah Abang|Jakarta Pusat|Jaksel
+Jl.Danau Toba kel.Bendungan Hilir kec.Tanah Abang Jakarta Pusat|Bendungan Hilir|Tanah Abang|Jakarta Pusat|Jaksel
+Jl.Danau Brantan kel.Bendungan Hilir kec.Tanah Abang Jakarta Pusat|Bendungan Hilir|Tanah Abang|Jakarta Pusat|Jaksel
+Jl.Danau Batur kel.Bendungan Hilir kec.Tanah Abang Jakarta Pusat|Bendungan Hilir|Tanah Abang|Jakarta Pusat|Jaksel
+Jl.Danau Tamblingan kel.Bendungan Hilir kec.Tanah Abang Jakarta Pusat|Bendungan Hilir|Tanah Abang|Jakarta Pusat|Jaksel
+Jl.Danau Singkarak kel.Bendungan Hilir kec.Tanah Abang Jakarta Pusat|Bendungan Hilir|Tanah Abang|Jakarta Pusat|Jaksel
+Jl.Danau Maninjau kel.Bendungan Hilir kec.Tanah Abang Jakarta Pusat|Bendungan Hilir|Tanah Abang|Jakarta Pusat|Jaksel
+Jl.Danau Limboto kel.Bendungan Hilir kec.Tanah Abang Jakarta Pusat|Bendungan Hilir|Tanah Abang|Jakarta Pusat|Jaksel
+Jl.Danau Matana kel.Bendungan Hilir kec.Tanah Abang Jakarta Pusat|Bendungan Hilir|Tanah Abang|Jakarta Pusat|Jaksel
+Jl.Danau Semayang kel.Bendungan Hilir kec.Tanah Abang Jakarta Pusat|Bendungan Hilir|Tanah Abang|Jakarta Pusat|Jaksel
+Jl.Danau Medara kel.Bendungan Hilir kec.Tanah Abang Jakarta Pusat|Bendungan Hilir|Tanah Abang|Jakarta Pusat|Jaksel
+Jl.Danau Poso kel.Bendungan Hilir kec.Tanah Abang Jakarta Pusat|Bendungan Hilir|Tanah Abang|Jakarta Pusat|Jaksel
+Comp DKI kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Jaksel
+Perum Taman Alfa Indah kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Jaksel
+Bakmi Keriting Taman Alfa kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Jaksel
+Puri Botanical Jl.Joglo no.48 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Jaksel
+Jl.Raya Joglo Gg.Sawo kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Jl.Kyai Hasyim kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Gg.H.Moh.Arief kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Jl.Regensi Hijau 1 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Jl.Regensi Hijau 2 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Jl.Regensi Hijau 3 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Jl.Regensi Hijau 4 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Jl.Regensi Hijau 5 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Jl.Regensi Hijau 6 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Jl.Regensi Hijau 7 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Jl.Regensi Asri 1 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Jl.Regensi Asri 2 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Jl.Regensi Asri 3 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Jl.Regensi Asri 4 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Jl.Regensi Asri 5 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Jl.Regensi Asri 6 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Jl.Regensi Asri 7 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Jl.Regensi Asri 8 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Jl.Regensi Asri 9 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Jl.Regensi Asri 10 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Jl.Regensi Lestari 1 kel.Meruya Selatan kec.Kembangan Jakbar|Meruya Selatan|Kembangan|Jakbar|Cideng
+Jl.Regensi Lestari 2 kel.Meruya Selatan kec.Kembangan Jakbar|Meruya Selatan|Kembangan|Jakbar|Cideng
+Jl.Regensi Lestari 3 kel.Meruya Selatan kec.Kembangan Jakbar|Meruya Selatan|Kembangan|Jakbar|Cideng
+Jl.Regensi Lestari 4 kel.Meruya Selatan kec.Kembangan Jakbar|Meruya Selatan|Kembangan|Jakbar|Cideng
+Jl.Regensi Lestari 5 kel.Meruya Selatan kec.Kembangan Jakbar|Meruya Selatan|Kembangan|Jakbar|Cideng
+Jl.Regensi Lestari 6 kel.Meruya Selatan kec.Kembangan Jakbar|Meruya Selatan|Kembangan|Jakbar|Cideng
+Jl.Regensi Lestari 7 kel.Meruya Selatan kec.Kembangan Jakbar|Meruya Selatan|Kembangan|Jakbar|Cideng
+Jl.Regensi Lestari 8 kel.Meruya Selatan kec.Kembangan Jakbar|Meruya Selatan|Kembangan|Jakbar|Cideng
+Jl.Regensi Lestari 9 kel.Meruya Selatan kec.Kembangan Jakbar|Meruya Selatan|Kembangan|Jakbar|Cideng
+Jl.Regensi Lestari 10 kel.Meruya Selatan kec.Kembangan Jakbar|Meruya Selatan|Kembangan|Jakbar|Cideng
+Jl.Regensi Lestari 11 kel.Meruya Selatan kec.Kembangan Jakbar|Meruya Selatan|Kembangan|Jakbar|Cideng
+Jl.Regensi Lestari 12 kel.Meruya Selatan kec.Kembangan Jakbar|Meruya Selatan|Kembangan|Jakbar|Cideng
+Jl.Regensi Lestari 13 kel.Meruya Selatan kec.Kembangan Jakbar|Meruya Selatan|Kembangan|Jakbar|Cideng
+Jl.Regensi Lestari 14 kel.Meruya Selatan kec.Kembangan Jakbar|Meruya Selatan|Kembangan|Jakbar|Cideng
+SMK Sumpah Pemuda Jl.Raya Joglo no.36 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Jaksel
+Perum Puri Botanical Residence Jl.Samanea Boulevard kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Eugenia 1 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Eugenia 2 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Eugenia 3 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Eugenia 4 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Eugenia 5 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Eugenia 6 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Eugenia 7 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Eugenia Boulevard kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Michelia Boulevard kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Michelia 1 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Michelia 2 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Michelia 3 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Michelia 4 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Michelia 5 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Michelia 6 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Michelia 7 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Michelia 8 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Michelia 9 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Michelia 10 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Dillenia 1 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Dillenia 2 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Dillenia 3 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Dillenia 4 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Dillenia 5 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Dillenia 6 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Agathis 1 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Agathis 2 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Agathis 3 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Agathis 4 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Agathis 5 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Agathis 6 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Agathis 7 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Agathis 8 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Perum Puri Botanical Residence Jl.Agathis 9 kel.Joglo kec.Kembangan Jakbar|Joglo|Kembangan|Jakbar|Cideng
+Apartemen City Walk Sudirman kel.Bendungan Hilir kec.Tanah Abang Jakpus|Bendungan Hilir|Tanah Abang|Jakpus|Jaksel
+Gg.Gelatik kel.Parung Jaya kec.Karang Tengah Tangerang|Parung Jaya|Karang Tengah|Tangerang|Tangerang
+Gg.H.Ahad kel.Parung Jaya kec.Karang Tengah Tangerang|Parung Jaya|Karang Tengah|Tangerang|Tangerang
+Gg.H.Buang kel.Parung Jaya kec.Karang Tengah Tangerang|Parung Jaya|Karang Tengah|Tangerang|Tangerang
+Gg.H.Kasman kel.Parung Jaya kec.Karang Tengah Tangerang|Parung Jaya|Karang Tengah|Tangerang|Tangerang
+Gg.Masjid Al-Maghfiroh kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Jaksel
+Gg.Restu kel.Parung Jaya kec.Karang Tengah Tangerang|Parung Jaya|Karang Tengah|Tangerang|Tangerang
+Jl.Cemara 3 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Jl.Palmeru kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Jl.Parung Jaya (sebelah Selatan Tol Merak-JKT) kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Jaksel
+Jl.Parung Jaya (sebelah Utara Tol Merak-JKT) kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Jl.Parung Jaya Gg.H.Muhtar kel.Parung Jaya kec.Karang Tengah Tangerang|Parung Jaya|Karang Tengah|Tangerang|Jaksel
+Kp.Parung Kored kel.Parung Jaya kec.Karang Tengah Tangerang|Parung Jaya|Karang Tengah|Tangerang|Tangerang
+Jl.Parung Kored kel.Parung Jaya kec.Karang Tengah Tangerang|Parung Jaya|Karang Tengah|Tangerang|Tangerang
+Jl.Pondok Pakulonan kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Jaksel
+Jl.Semeru 1 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Jl.Semeru 2 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Jl.Sunan Giri Gg.Masjid RW.2 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Jl.Sunan Giri RW.1 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Jaksel
+Jl.Villa Gg.Nipan Karet kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Graha Karang Tengah 2 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Jaksel
+Perum Griya Sangiang Mas Jl.Aren 1 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Aren 2 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Aren 3 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Balai kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Betet 1 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Betet 2 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Betet 3 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Betet 4 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Betet 5 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Cendrawasih kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Cendrawasih 1 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Cendrawasih 2 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Cendrawasih 3 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Cendrawasih 4 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Elang 1 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Elang 2 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Garuda 1 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Garuda 2 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Garuda 3 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Garuda 4 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Garuda 5 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Kaswari kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Kutilang kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Masjid kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Merak kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Merpati 1 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Merpati 2 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Merpati 3 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Merpati 4 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Merpati 5 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Merpati Raya kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Murai kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Murai 1 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Pelita Raya kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Perkutut Raya kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Rajawali 1 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Rajawali 2 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Rajawali 3 kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Perum Griya Sangiang Mas Jl.Taman Murai kel.Pondok Bahar kec.Karang Tengah Tangerang|Pondok Bahar|Karang Tengah|Tangerang|Tangerang
+Sahid Metropolitan Residence Jl.Karet Belakang Barat kel.Karet Kuningan kec.Setiabudi Jaksel|Karet Kuningan|Setiabudi|Jaksel|Jaksel
+Perum Pondok Hijau Golf Cluster Amethyst Residence Gading Serpong|Curug Sangereng|Kelapa Dua|Tangerang|Serpong
+Perum Pondok Hijau Golf Cluster Aquamarine Residence Gading Serpong|Cihuni|Pagedangan|Tangerang|Serpong
+Perum Pondok Hijau Golf Cluster Chalcedony Residence Gading Serpong|Curug Sangereng|Kelapa Dua|Tangerang|Serpong
+Perum Pondok Hijau Golf Cluster Chrysocolla Residence Gading Serpong|Curug Sangereng|Kelapa Dua|Tangerang|Serpong
+Perum Pondok Hijau Golf Cluster Emerald Residence Gading Serpong|Cihuni|Pagedangan|Tangerang|Serpong
+Perum Pondok Hijau Golf Cluster Garnet Residence Gading Serpong|Cihuni|Pagedangan|Tangerang|Serpong
+Perum Pondok Hijau Golf Cluster Jade Residence Gading Serpong|Pakulonan Barat|Kelapa Dua|Tangerang|Serpong
+Perum Pondok Hijau Golf Cluster Ruby Residence Gading Serpong|Curug Sangereng|Kelapa Dua|Tangerang|Serpong
+Perum Pondok Hijau Golf Cluster Sapphire Residence Gading Serpong|Pakulonan Barat|Kelapa Dua|Tangerang|Serpong
+Perum Pondok Hijau Golf Cluster The Crown Residence Gading Serpong|Cihuni|Pagedangan|Tangerang|Serpong
+Perum Pondok Hijau Golf Cluster The Tiara Residence Gading Serpong|Cihuni|Pagedangan|Tangerang|Serpong
+Perum Pondok Hijau Golf Cluster Topaz Residence Gading Serpong|Pakulonan Barat|Kelapa Dua|Tangerang|Serpong
+Perum Pondok Hijau Golf Cluster Turqoise Residence Gading Serpong|Curug Sangereng|Kelapa Dua|Tangerang|Serpong
+Perum Cirarab Residence kel.Cirarab kec.Legok Tangerang|Cirarab|Legok|Tangerang|Tangerang
+Jl.H.Sanen kel.Cirarab kec.Legok Tangerang|Cirarab|Legok|Tangerang|Serpong
+Jl.Raya Cirarab kel.Cirarab kec.Legok Tangerang|Cirarab|Legok|Tangerang|Tangerang
+Jl.Delima kel.Cirarab kec.Legok Tangerang|Cirarab|Legok|Tangerang|Tangerang
+Perum Green Lake City Cluster Amerika kel.Duri Kosambi kec.Cengkareng Jakbar|Duri Kosambi|Cengkareng|Jakbar|Cideng
+Perum Green Lake City Cluster Amerika Latin kel.Petir kec.Cipondoh Tangerang|Petir|Cipondoh|Tangerang|Tangerang
+Perum Green Lake City Cluster Asia kel.Gondrong kec.Cipondoh Tangerang|Gondrong|Cipondoh|Tangerang|Tangerang
+Perum Green Lake City Cluster Australia kel.Ketapang kec.Cipondoh Tangerang|Ketapang|Cipondoh|Tangerang|Tangerang
+Perum Green Lake City Cluster East Asia kel.Gondrong kec.Cipondoh Tangerang|Gondrong|Cipondoh|Tangerang|Tangerang
+Perum Green Lake City Cluster East Europe kel.Petir kec.Cipondoh Tangerang|Petir|Cipondoh|Tangerang|Cideng
+Perum Green Lake City Cluster Ebony kel.Petir kec.Cipondoh Tangerang|Petir|Cipondoh|Tangerang|Tangerang
+Perum Green Lake City Cluster West Europe kel.Semanan kec.Kalideres Jakbar|Semanan|Kalideres|Jakbar|Cideng
+Perum Green Lake City Cluster West Europe kel.Ketapang kec.Cipondoh Tangerang|Ketapang|Cipondoh|Tangerang|Cideng
+Plaza Atrium Senen Jl.Senen Raya kec.Senen Jakpus||Senen|Jakpus|Cideng
+Proyek Pasar Senen kec.Senen Jakpus||Senen|Jakpus|Pulogadung
+Cowell Tower Atrium Senen kec.Senen Jakpus||Senen|Jakpus|Cideng
+Oasis Amir Hotel Jl.Senen Raya no.135-137 kec.Senen Jakpus||Senen|Jakpus|Cideng
+Lumire Hotel & Convention Center Jl.Senen Raya no.135 kec.Senen Jakpus||Senen|Jakpus|Cideng
+Allson Residence Jakarta Jl.Senen Raya no.135-137 kec.Senen Jakpus||Senen|Jakpus|Cideng
+Gedung Menara Era Jl.Senen Raya kec.Senen Jakpus||Senen|Jakpus|Cideng
+Terminal Senen kec.Senen Jakpus||Senen|Jakpus|Pulogadung
+Hotel Mustika Jl.Stasion Senen kec.Senen Jakpus||Senen|Jakpus|Pulogadung
+Plaza Kenari Mas Jl.Kramat Raya no.101 kel.Paseban kec.Senen Jakpus|Paseban|Senen|Jakpus|Pulogadung
+Pasar Kenari Jl.Salemba Raya kel.Kenari kec.Senen Jakpus|Kenari|Senen|Jakpus|Cideng
+Menara Salemba Jl.Salemba Raya kel.Kenari kec.Senen Jakpus|Kenari|Senen|Jakpus|Pulogadung
+Hotel MaxxOne Jl.Kramat Raya no.91 kel.Paseban kec.Senen Jakpus|Paseban|Senen|Jakpus|Pulogadung
+Kantor Pusat Pegadaian Jl.Kramat Raya kel.Kenari kec.Senen Jakpus|Kenari|Senen|Jakpus|Cideng
+The Acadia Hotel and Resort Jl.Kramat Raya kel.Kramat kec.Senen Jakpus|Kramat|Senen|Jakpus|Pulogadung
+Prodia Tower Jl.Kramat Raya no.150 kel.Kenari kec.Senen Jakpus|Kenari|Senen|Jakpus|Cideng
+Gedung Prodia Jl.Kramat Sentiong no.134 kel.Kramat kec.Senen Jakpus|Kramat|Senen|Jakpus|Pulogadung
+Komisi Yudisial Jl.Kramat Raya no.57 kel.Kramat kec.Senen Jakpus|Kramat|Senen|Jakpus|Pulogadung
+Polres Metro Jakpus Jl.Kramat Raya no.61 kel.Kramat kec.Senen Jakpus|Kramat|Senen|Jakpus|Pulogadung
+Hotel Ibis Jl.Kramat Raya kel.Kwitang kec.Senen Jakpus|Kwitang|Senen|Jakpus|Cideng
+The Suite at Menteng Square Jl.Matraman kel.Kenari kec.Senen Jakpus|Kenari|Senen|Jakpus|Cideng
+Hotel Grand Menteng Jl.Matraman kel.Palmeriam kec.Senen Jakpus|Palmeriam|Senen|Jakpus|Pulogadung
+Apartemen Salemba Residence Jl.Salemba Tengah 2 kel.Paseban kec.Senen Jakpus|Paseban|Senen|Jakpus|Pulogadung
+Apartemen Capitol Park Residence Jl.Salemba Raya kel.Kenari kec.Senen Jakpus|Kenari|Senen|Jakpus|Cideng
+Sentra Salemba Mas Jl.Salemba Raya kel.Kenari kec.Senen Jakpus|Kenari|Senen|Jakpus|Cideng
+Gedung Menza Jl.Salemba Raya kel.Kenari kec.Senen Jakpus|Kenari|Senen|Jakpus|Cideng
+RS Saint Carolus Jl.Salemba Raya kel.Paseban kec.Senen Jakpus|Paseban|Senen|Jakpus|Pulogadung
+Universitas Indonesia Jl.Salemba Raya no.4 kel.Kenari kec.Senen Jakpus|Kenari|Senen|Jakpus|Cideng
+Toko Cat Citra 26 Jl.Kramat Raya no.26 kel.Kwitang kec.Senen Jakpus|Kwitang|Senen|Jakpus|Cideng
+Toko Buku UD Saudara Jl.Kramat Raya no.30B kel.Kwitang kec.Senen Jakpus|Kwitang|Senen|Jakpus|Cideng
+PT. Bumi Citra Permai Jl.Kramat Raya no.32-34 kel.Kwitang kec.Senen Jakpus|Kwitang|Senen|Jakpus|Cideng
+Toko Aki Jl.Kramat Raya no.37 kel.Kwitang kec.Senen Jakpus|Kwitang|Senen|Jakpus|Cideng
+TB Sahabat Jaya Jl.Kramat Raya no.36 kel.Kwitang kec.Senen Jakpus|Kwitang|Senen|Jakpus|Cideng
+STMIK Nusa Mandiri Jl.Kramat Raya no.18 kel.Kwitang kec.Senen Jakpus|Kwitang|Senen|Jakpus|Cideng
+Finroll Building Jl.Kramat Kwitang no.1 Rt.2/7 kel.Kwitang kec.Senen Jakpus|Kwitang|Senen|Jakpus|Cideng
+Ice Cream Baltic Jl.Kramat Raya no.10 kel.Kwitang kec.Senen Jakpus|Kwitang|Senen|Jakpus|Cideng
+Yayasan Dana Pendidikan Buddhis Nalanda Jl.Kramat Raya no.64 kel.Kwitang kec.Senen Jakpus|Kwitang|Senen|Jakpus|Cideng
+Pasar Buku Kwitang Jl.Kwitang Raya kel.Kwitang kec.Senen Jakpus|Kwitang|Senen|Jakpus|Cideng
+Grosir Souvenir Jl.Kramat Raya no.24 kel.Kwitang kec.Senen Jakpus|Kwitang|Senen|Jakpus|Cideng
+Hardy Bookstore Jl.Kramat Raya no.14-16 kel.Kwitang kec.Senen Jakpus|Kwitang|Senen|Jakpus|Cideng
+Dori Bookstore Jl.Kramat Raya no.14A kel.Kwitang kec.Senen Jakpus|Kwitang|Senen|Jakpus|Cideng
+Budi Book Jl.Kramat Buntu kel.Kwitang kec.Senen Jakpus|Kwitang|Senen|Jakpus|Cideng
+Ramadhan Agency Jl.Kramat Raya no.30A kel.Kwitang kec.Senen Jakpus|Kwitang|Senen|Jakpus|Cideng
+CTC Building Pasar Senen Jl.Kramat Raya no.94-96 kel.Kwitang kec.Senen Jakpus|Kwitang|Senen|Jakpus|Cideng
+Hotel Cordela Senen Jl.Kramat Raya no.102 kel.Kwitang kec.Senen Jakpus|Kwitang|Senen|Jakpus|Cideng
+Museum Sumpah Pemuda Jl.Kramat Raya no.106 kel.Kwitang kec.Senen Jakpus|Kwitang|Senen|Jakpus|Cideng
+Universitas Mercu Buana Kampus Menteng Jl.Kramat Raya kel.Kwitang kec.Senen Jakpus|Kwitang|Senen|Jakpus|Cideng
+Menara Top Food Jl.Jalur Sutera Barat no.3 kel.Panunggangan Timur kec.Pinang Tangerang|Panunggangan Timur|Pinang|Tangerang|Serpong
+Alfa Tower Jl.Jalur Sutera Barat kav.7-9 kel.Panunggangan Timur kec.Pinang Tangerang|Panunggangan Timur|Pinang|Tangerang|Serpong
+Alfaland Group Indonesia, Alfa Tower 25th floor kel.Panunggangan Timur kec.Pinang Tangerang|Panunggangan Timur|Pinang|Tangerang|Serpong
+Universitas Bunda Mulia, UBM Tower Jl.Jalur Sutera Barat kav.7-9 kel.Panunggangan Timur kec.Pinang Tangerang|Panunggangan Timur|Pinang|Tangerang|Serpong
+Ruko Prominence Jl.Jalur Sutera kel.Panunggangan Timur kec.Pinang Tangerang|Panunggangan Timur|Pinang|Tangerang|Serpong
+Jl.Jalur Sutera kel.Panunggangan Timur kec.Pinang Tangerang|Panunggangan Timur|Pinang|Tangerang|Serpong
+Jl.Jalur Sutera Barat kel.Panunggangan Timur kec.Pinang Tangerang|Panunggangan Timur|Pinang|Tangerang|Serpong
+Jl.Jalur Sutera Timur kel.Panunggangan Timur kec.Pinang Tangerang|Panunggangan Timur|Pinang|Tangerang|Serpong
+Jl.Jalur Sutera Boulevard kel.Panunggangan Timur kec.Pinang Tangerang|Panunggangan Timur|Pinang|Tangerang|Serpong
+Jl.Muaran Mede kel.Panunggangan Timur kec.Pinang Tangerang|Panunggangan Timur|Pinang|Tangerang|Serpong
+The Prominence Tower Jl.Jalur Sutera Barat kav.15 kel.Panunggangan Timur kec.Pinang Tangerang|Panunggangan Timur|Pinang|Tangerang|Serpong
+Synergy Building Jl.Jalur Sutera Barat kav.17 kel.Panunggangan Timur kec.Pinang Tangerang|Panunggangan Timur|Pinang|Tangerang|Serpong
+Apartemen Pacific Garden Style Jl.Jalur Sutera Barat kel.Panunggangan Timur kec.Pinang Tangerang|Panunggangan Timur|Pinang|Tangerang|Serpong
+Apartemen Silkwood Residence Jl.Jalur Sutera Barat kel.Panunggangan Timur kec.Pinang Tangerang|Panunggangan Timur|Pinang|Tangerang|Serpong
+Apartemen Paddington Height Jl.Jalur Sutera Barat kel.Panunggangan Timur kec.Pinang Tangerang|Panunggangan Timur|Pinang|Tangerang|Serpong
+Binus University Kampus Alam Sutera Jl.Jalur Sutera Barat kel.Panunggangan Timur kec.Pinang Tangerang|Panunggangan Timur|Pinang|Tangerang|Serpong
+Apartemen Springwood Residence kel.Panunggangan kec.Pinang Tangerang|Panunggangan|Pinang|Tangerang|Serpong
+PT.Tifico Fiber Indonesia Jl.MH.Thamrin kel.Panunggangan kec.Pinang Tangerang|Panunggangan|Pinang|Tangerang|Serpong
+PT.Indonesia Teijin Dupont Films Jl.MH.Thamrin kel.Panunggangan kec.Pinang Tangerang|Panunggangan|Pinang|Tangerang|Serpong
+Kantor Kelurahan Panunggangan kel.Panunggangan kec.Pinang Tangerang|Panunggangan|Pinang|Tangerang|Serpong
+SDN Panunggangan 5 Jl.Kyai Maja kel.Panunggangan kec.Pinang Tangerang|Panunggangan|Pinang|Tangerang|Serpong
+SDN Panunggangan 11 Jl.Kyai Maja kel.Panunggangan kec.Pinang Tangerang|Panunggangan|Pinang|Tangerang|Serpong
+Jl.KH.Dero kel.Panunggangan kec.Pinang Tangerang|Panunggangan|Pinang|Tangerang|Serpong
+Jl.Kampung Kosong kel.Panunggangan kec.Pinang Tangerang|Panunggangan|Pinang|Tangerang|Serpong
+Jl.Gapura kel.Panunggangan kec.Pinang Tangerang|Panunggangan|Pinang|Tangerang|Serpong
+Reiysha Townhouse Jl.Kampung Kosong kel.Panunggangan kec.Pinang Tangerang|Panunggangan|Pinang|Tangerang|Serpong
+Perumahan Sutera Victoria kel.Panunggangan kec.Pinang Tangerang|Panunggangan|Pinang|Tangerang|Serpong
+Apartemen The Lana Comp Alam Sutera Jl.Jalur Sutera Barat kav.20 kel.Panunggangan Timur kec.Pinang Tangerang|Panunggangan Timur|Pinang|Tangerang|Serpong
+Mall Alam Sutera Jl.Jalur Sutera Barat kav.16 kel.Panunggangan Timur kec.Pinang Tangerang|Panunggangan Timur|Pinang|Tangerang|Serpong
+Swiss-German University, The Prominence Tower kel.Panunggangan Timur kec.Pinang Tangerang|Panunggangan Timur|Pinang|Tangerang|Serpong
+PT. Buhler Indonesia Application Center, The Prominence Tower kel.Panunggangan Timur kec.Pinang Tangerang|Panunggangan Timur|Pinang|Tangerang|Serpong
+Apartemen Sky House Alam Sutera Jl.Sutera Boulevard kav.15 (samping IKEA) kel.Kunciran kec.Pinang Tangerang|Kunciran|Pinang|Tangerang|Serpong
+IKEA Jl.Sutera Boulevard kel.Kunciran kec.Pinang Tangerang|Kunciran|Pinang|Tangerang|Serpong
+Gedung Prima Sejahtera (GPS) Jl.Jalur Sutera Timur kel.Kunciran kec.Pinang Tangerang|Kunciran|Pinang|Tangerang|Serpong
+Wisma Bhakti Mulya Jl.Kramat Raya no.160 kel.Kenari kec.Senen Jakpus|Kenari|Senen|Jakpus|Cideng
+Jl.Dr.Sutomo kel.Pasar Baru kec.Sawah Besar Jakpus|Pasar Baru|Sawah Besar|Jakpus|Cideng
+Badan Pusat Statistik Jl.Dr.Sutomo no.6-8 kel.Pasar Baru kec.Sawah Besar Jakpus|Pasar Baru|Sawah Besar|Jakpus|Cideng
+Hotel Bintang Baru Jl.Dr.Sutomo no.9 kel.Pasar Baru kec.Sawah Besar Jakpus|Pasar Baru|Sawah Besar|Jakpus|Cideng
+Perum Teratai Griya Asri kel.Gawir kec.Legok Tangerang|Gawir|Legok|Tangerang|Tangerang
+Perum Legok Permai Cluster Kaliandra kel. kec.Legok Tangerang||Legok|Tangerang|Tangerang
+Perum Legok Permai Cluster Idesia kel. kec.Legok Tangerang||Legok|Tangerang|Tangerang
+Perum Griya Permai kel.Caringin kec.Legok Tangerang|Caringin|Legok|Tangerang|Tangerang
+Perum The Green Residence Legok kel.Caringin kec.Legok Tangerang|Caringin|Legok|Tangerang|Tangerang
+Perum Jati Elok kel.Malang Nengah kec.Pagedangan Tangerang|Malang Nengah|Pagedangan|Tangerang|Tangerang
+Perum Bumi Jati Elok kel.Malang Nengah kec.Pagedangan Tangerang|Malang Nengah|Pagedangan|Tangerang|Tangerang
+Cluster Mutiara Legok kel.Caringin kec.Legok Tangerang|Caringin|Legok|Tangerang|Tangerang
+Perum Graha Legok kel.Kemuning kec.Legok Tangerang|Kemuning|Legok|Tangerang|Tangerang
+Jl.Nangsi kel.Caringin kec.Legok Tangerang|Caringin|Legok|Tangerang|Tangerang
+Apartemen Elpis Residence Jl.Gunung Sahari 12 no.12|Gunung Sahari Utara|Sawah Besar|Jakpus|Cideng
+Jl.Pinggir kel.Panunggangan Utara kec.Pinang Tangerang|Panunggangan Utara|Pinang|Tangerang|Tangerang
+Jl.Tripraja kel.Panunggangan Utara kec.Pinang Tangerang|Panunggangan Utara|Pinang|Tangerang|Tangerang
+Jl.Gorong-Gorong kel.Panunggangan Timur kec.Pinang Tangerang|Panunggangan Timur|Pinang|Tangerang|Tangerang
+Grand Serpong Mall Jl.MH.Thamrin kel.Panunggangan Utara kec.Pinang Tangerang|Panunggangan Utara|Pinang|Tangerang|Tangerang
+Ruko Duta Indah Jl.MH.Thamrin kel.Panunggangan Timur kec.Pinang Tangerang|Panunggangan Timur|Pinang|Tangerang|Tangerang
+Hotel Great Western Resort kel.Panunggangan Utara kec.Pinang Tangerang|Panunggangan Utara|Pinang|Tangerang|Tangerang
+Hotel Horison Great Western Resort kel.Panunggangan Utara kec.Pinang Tangerang|Panunggangan Utara|Pinang|Tangerang|Tangerang
+Marcopolo Waterpark kel.Panunggangan Utara kec.Pinang Tangerang|Panunggangan Utara|Pinang|Tangerang|Tangerang
+Perum Sekretariat Negara (Setneg) kel.Panunggangan Utara kec.Pinang Tangerang|Panunggangan Utara|Pinang|Tangerang|Tangerang
+SDN Panunggangan 4 Jl.Rasuna Said kel.Panunggangan Utara kec.Pinang Tangerang|Panunggangan Utara|Pinang|Tangerang|Tangerang
+Jl.Ki Male kel.Panunggangan Timur kec.Pinang Tangerang|Panunggangan Timur|Pinang|Tangerang|Tangerang
+Jl.Nean Saba kel.Kunciran kec.Pinang Tangerang|Kunciran|Pinang|Tangerang|Serpong
+Kantor Kelurahan Kunciran Indah kel.Kunciran Indah kec.Pinang Tangerang|Kunciran Indah|Pinang|Tangerang|Serpong
