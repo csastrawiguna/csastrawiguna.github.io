@@ -1,0 +1,27 @@
+a{
+	text-decoration: none;
+}
+
+/*.pilihArea{
+	width: 85px;
+	height: 30px;
+	line-height: 30px;
+	border-radius: 5px;
+	border: 1px grey solid;
+	display: inline-block;
+	text-align: center;
+	margin: 0 5px;
+	color: #333;
+	background: radial-gradient(#EEE 60%, #DDD 90%);
+}*/
+
+a button{
+	width: 100px;
+	height: 30px;
+	line-height: 10px;
+	margin: 10 3px;
+}
+
+a button:hover{
+	cursor: pointer;
+}

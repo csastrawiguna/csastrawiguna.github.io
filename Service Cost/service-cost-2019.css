@@ -1,0 +1,114 @@
+body{
+	font-family: gadugi, tahoma, sans-serif;
+	font-size: 13px;
+}
+
+h1{
+	font-family: itc avant garde gothic, century gothic, sans-serif;
+	color: #900;
+}
+
+table{
+	border: 1px solid #666;
+	border-collapse: collapse;
+	padding-left: 10px;
+	padding-right: 15px;
+}
+
+table thead th{
+	background-color: #DDD;
+}
+
+table thead tr:nth-child(2) th:nth-last-child(2){
+	background-color: rgba(0, 0, 240, 0.2);
+	color: #007	;
+}
+
+table tbody td{
+	border: 1px solid #666;
+}
+
+#fee tbody tr td:nth-last-child(7){
+	width: 120px;
+}
+
+#fee tbody tr td:last-child,
+#refrigerant tbody tr td:last-child{
+	text-align: right;
+	padding-right: 15px;
+	min-width: 90px;
+}
+
+#fee tbody tr td:nth-last-child(2),
+#refrigerant tbody tr td:nth-last-child(1){
+	text-align: right;
+	padding-right: 15px;
+	color: #00A	;
+	min-width: 90px;
+	letter-spacing: 1px;
+}
+
+#refrigerant tbody tr td:nth-last-child(2){
+	text-align: right;
+	padding-right: 15px;
+}
+
+#fee tbody tr td:nth-last-child(3),
+#fee tbody tr td:nth-last-child(4){
+	min-width: 80px;
+	text-align: right;
+	padding-right: 15px;
+}
+
+#refrigerant tbody tr td:nth-last-child(3){
+	text-align: center;
+}
+
+#fee tbody tr td:nth-last-child(5){
+	width: 150px;
+}
+
+#fee tbody tr td:nth-last-child(6){
+	/*width: 300px;*/
+}
+
+#fee tbody tr td:nth-last-child(7){
+	width: 120px;
+}
+
+#refrigerant tbody tr td:nth-last-child(6){
+}
+
+#transport tbody tr:first-child{
+	background-color: #DDD;
+}
+
+/*warna di tabel refrigerant*/
+
+.warna-1{
+	background-color: rgba(210, 20, 65, 0.2);
+}
+
+.warna-2{
+	background-color: rgba(255, 69, 0, 0.2);
+}
+
+.warna-3{
+	background-color: rgba(231, 176, 60, 0.2);
+}
+
+.warna-4{
+	background-color: rgba(46, 204, 113, 0.2);
+}
+
+.warna-5{
+	background-color: rgba(0, 255, 255, 0.2);
+}
+
+.warna-6{
+	background-color: rgba(22, 152, 219, 0.2);
+}
+
+.warna-7{
+	background-color: rgba(142, 68, 173, 0.2);
+}

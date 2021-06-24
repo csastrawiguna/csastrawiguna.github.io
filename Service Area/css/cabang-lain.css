@@ -1,0 +1,84 @@
+h3{
+  font-family: Arial Narrow, sans-serif;
+  letter-spacing: 2px;
+  font-size: 24px;
+  font-weight: normal;
+  margin: 5px 0;
+}
+table td{
+  border: 1px #ccc solid;
+  font-family: tahoma, sans-serif;
+  font-size: 12px;
+}
+.fixed_headers {
+  width: auto;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+.fixed_headers th{
+  text-align: center;
+  padding: 3px;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: tahoma, sans-serif;
+}
+
+.fixed_headers td {
+  padding: 3px;
+  text-align: left;
+  box-sizing: border-box;
+}
+.fixed_headers td:nth-child(1),
+.fixed_headers th:nth-child(1) {
+  min-width: 300px;
+}
+.fixed_headers td:nth-child(2),
+.fixed_headers th:nth-child(2) {
+  min-width: 160px;
+}
+.fixed_headers td:nth-child(3),
+.fixed_headers th:nth-child(3) {
+  width: 240px;
+}
+
+.fixed_headers td:nth-child(4),
+.fixed_headers th:nth-child(4) {
+  width: 60px;
+}
+.fixed_headers td:nth-child(5),
+.fixed_headers th:nth-child(5) {
+  width: 100px;
+}
+.fixed_headers td:nth-child(6),
+.fixed_headers th:nth-child(6) {
+  width: 250px;
+}
+
+.fixed_headers thead {
+  background-color: rgb(22, 145, 165);
+  color: #fdfdfd;
+}
+.fixed_headers thead tr {
+  display: block;
+  position: relative;
+  height: 28px;
+}
+.fixed_headers tbody {
+  display: block;
+  overflow: auto;
+  width: 100%;
+  height: 540px;
+}
+.fixed_headers tbody tr{
+  height: 28px;
+}
+.fixed_headers tbody tr:nth-child(even) {
+  text-align: center;
+  background-color: #ECECEC;
+}
+
+.highlight{
+   font-style: oblique;
+   color: #03F;
+   font-weight: lighter;
+}

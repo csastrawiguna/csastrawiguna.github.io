@@ -1,0 +1,40 @@
+body{
+	background: rgb(230, 230, 230);
+}
+h1{
+	width:900px;
+	margin:30px auto;
+	font-family: ITC Avant Garde Gothic, Century Gothic, sans-serif;
+	color: rgb(210, 20, 70);
+	font-size: 36px;
+	text-align: center;
+}
+
+h3{
+	width:900px;
+	margin:30px auto;
+	font-family: ITC Avant Garde Gothic, Century Gothic, sans-serif;
+	color: rgb(210, 20, 70);
+	font-size: 22px;
+	text-align: center;
+}
+
+#gallery{
+	width: 760px;
+	margin: auto;
+	padding:20px;
+	margin: auto;
+}
+
+#gallery img{
+	margin: 10px;
+	padding: 25px;
+	background-color: rgba(210, 20, 70);
+}
+
+.footer{
+	width: 1400px;
+	position: absolute;
+	bottom: -20px;
+	text-align: center;
+	font-family: courier new;
