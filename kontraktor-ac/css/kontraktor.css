@@ -1,0 +1,31 @@
+body{font-size: 14px; color: #111;}
+table tr{border: 1px solid #333;}
+table tr td, table tr th{border: 1px solid #aaa;}
+table tr th{
+	text-align: center;
+	background-color: #800;
+	color: white;
+	font-weight: normal;
+	font-family: consolas;
+}
+
+table thead tr th:nth-child(1),
+table tbody tr td:nth-child(1){
+	width: 30px;
+	text-align: center;
+}
+
+table thead tr th:nth-child(2),
+table tbody tr td:nth-child(2){min-width: 120px;}
+
+table thead tr th:nth-child(3),
+table tbody tr td:nth-child(3){min-width: 150px;}
+
+table thead tr th:nth-child(4),
+table tbody tr td:nth-child(4){min-width: 150px;}
+
+table thead tr th:nth-child(5),
+table tbody tr td:nth-child(5){min-width: 90px;}
+
+table thead tr th:nth-child(6),
+table tbody tr td:nth-child(6){min-width: 180px;}
