@@ -1,0 +1,69 @@
+.judul{
+	height: 40px;
+	line-height: 40px;
+	font-size: 18px;
+	font-family: tahoma;
+	margin: 5px;
+}
+
+.gambar img{
+	height: 300px;
+	width: 540px;
+	display: inline-block;
+	float: left;
+	margin: 5px;
+}
+
+.tabel{
+	margin: 20px 10px;
+	width: 450px;
+	height: 260px;
+	/*border: 1px solid red;*/
+	display: inline-block;
+	float: left;
+}
+
+.tabel .header-iframe{
+	text-align: center;
+	font-family: tahoma;
+	color: darkred;
+}
+
+.tabel iframe{
+	height: 260px;
+	width: 450px;
+	overflow: hidden;
+	/*border: 1px solid blue;*/
+}
+
+.catatan{
+	width: 160px;
+	height: 70px;	
+	border-radius: 4px;
+	background-color: rgb(22, 147, 175);
+	color: white;
+	font-family: sans-serif;
+	float: left;
+	line-height: 1.3em;
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	padding: 5px;
+}
+
+.xmodel{
+	height: 40px;
+	line-height: 40px;
+	width: 80%;
+	margin: 20px auto auto auto;
+	border-top: 1px solid salmon;
+	border-bottom: 1px solid salmon;
+	text-align: center;
+	color: darkred;
+	font-family: century gothic, sans-serif;
+}
+
+.sorot{
+	color: yellow;
+	font-weight: bold;
+}

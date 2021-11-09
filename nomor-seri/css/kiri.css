@@ -1,0 +1,58 @@
+@font-face{
+	font-family: 'Aaargh';
+	src: url(../../Font/Aaargh.TTF);
+}
+
+@font-face{
+	font-family: 'Quicksand';
+	src: url(../../Font/Questrial-Regular.TTF);
+}
+
+body{
+	background-color: #EEE;
+	font-family: Quicksand;
+	height: 100%;
+	width: 100%;
+	font-size: 14px;
+}
+
+.margin{
+	height: 40px;
+	line-height: 50px;
+	width: 200px;
+	margin-left: 5px;
+	margin-bottom: 10px;
+	text-align: center;
+	border-bottom: 1px solid darkgrey;
+	font-family: Aaargh, sans-serif;
+}
+
+a{
+	list-style-type: none;
+	text-decoration: none;
+	font-family: Quicksand, sans-serif;
+	height: 36px;
+	line-height: 36px;
+	width: 208px;
+	color: #333;
+}
+
+a li{
+	/*border: 1px solid salmon;*/
+	width: inherit;
+	margin: 5px 1px;
+	padding-left: 8px;
+	box-sizing: border-box;
+}
+
+a:nth-child(odd){
+	margin-top: 40px;
+}
+
+.pilih{
+	background-color: rgba(231, 76, 60, 0.3);
+	text-align: right;
+	padding-right: 10px;
+	box-sizing: border-box;
+	transition: 0.3s;
+}
